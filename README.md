@@ -464,4 +464,32 @@ Code splitting, lazy loading, caching strategies, CDN setup, and Lighthouse scor
 |:---:|:---|:---|:---:|
 | 🥇 | **Web-Wits** — National Level Symposium Winner | Jamal Mohamed College | ![Competition](https://img.shields.io/badge/Competition-FFD700?style=flat-square) |
 | 🥇 | **Bugg-Boss** — National Level Symposium Winner | Jamal Mohamed College | ![Competition](https://img.shields.io/badge/Competition-FFD700?style=flat-square) |
-| 🎓 | **Python Fundamentals for Beginners** | Great Learning
+| 🎓 | **Python Fundamentals for Beginners** | Great Learning | ![Cert](https://img.shields.io/badge/Certified-38BDAE?style=flat-square) |
+| 🎓 | **Full Stack Web Development** | Udemy | ![Cert](https://img.shields.io/badge/Certified-38BDAE?style=flat-square) |
+| 🎓 | **Machine Learning with Python** | Coursera | ![Cert](https://img.shields.io/badge/Certified-38BDAE?style=flat-square) |
+| 🎓 | **Django REST Framework** | Udemy | ![Cert](https://img.shields.io/badge/Certified-38BDAE?style=flat-square) |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+### 💬 Let's Build Something Together
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-70A5FD?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-six-fawn-59.vercel.app/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mani2005)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crackyyyy.tech@gmail.com)&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919345383782)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1b27,100:0d1117&height=120&section=footer" width="100%"/>
+
+</div>
