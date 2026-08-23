@@ -1,125 +1,177 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=1900&pause=600&color=00FF88&center=true&vCenter=true&repeat=true&width=980&height=84&lines=%5BSYSTEM%5D+Booting+developer+core...;%5BACCESS+GRANTED%5D+AI+Builder+online.;%5BMODULE%5D+Python+%7C+React+%7C+Flask+%7C+Django+%7C+Node.js;%5BSCAN%5D+NLP+%7C+LLM+%7C+Computer+Vision+%7C+Automation;%5BMISSION%5D+Build.+Break.+Debug.+Ship.+Repeat." alt="Animated terminal intro" />
+<!-- ============================================================= -->
+
+<!--  SUDALAI MANIKANDAN S — PROFESSIONAL ANIME × HACKER PROFILE   -->
+
+<!--  Recruiter-first • Cyberpunk identity • GitHub-safe Markdown  -->
+
+<!-- ============================================================= -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,18:00E5FF,38:6C63FF,58:9D4EDD,78:FF4ECD,100:FF7A00&height=260&section=header&text=SUDALAI%20MANIKANDAN%20S&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20AI%20Builder&descAlignY=57&descSize=18" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2400&pause=700&color=00F5A0&center=true&vCenter=true&repeat=true&width=980&height=70&lines=%5BBOOT%5D+Developer+environment+initialized...;%5BROLE%5D+Python+Developer+%7C+Full-Stack+Engineer+%7C+AI+Builder;%5BFOCUS%5D+AI%2FML+%7C+Computer+Vision+%7C+NLP%2FLLM+%7C+Automation;%5BMISSION%5D+Build+useful%2C+deployable%2C+real-world+software.;%5BSTATUS%5D+Learning.+Building.+Shipping.+Improving." alt="Developer typing animation" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/ACCESS-GRANTED-00FF88?style=for-the-badge&logo=protonvpn&logoColor=black" />
-<img src="https://img.shields.io/badge/THREAT%20LEVEL-CREATIVE-FF00C8?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/CORE-AI%20%2B%20FULL--STACK-00E5FF?style=for-the-badge&logo=openai&logoColor=black" />
-<img src="https://img.shields.io/badge/MODE-NIGHT%20OPS-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://portfolio-six-fawn-59.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/mani2005"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:crackyyy.tech@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-<a href="https://portfolio-six-fawn-59.vercel.app/"><img src="https://img.shields.io/badge/%5BOPEN%5D%20PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-<a href="https://linkedin.com/in/mani2005"><img src="https://img.shields.io/badge/%5BCONNECT%5D%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:crackyyy.tech@gmail.com"><img src="https://img.shields.io/badge/%5BSIGNAL%5D%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/%5BSCAN%5D%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=00FF88" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=crackyyytech&label=NETWORK+SCANS&color=00FF88&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/crackyyytech?label=CONNECTED+NODES&style=for-the-badge&color=00E5FF&logo=github&logoColor=black" alt="Followers" />
+<img src="https://img.shields.io/badge/LOCATION-Tenkasi%2C%20India-00E5FF?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/DEGREE-B.E.%20CSE%202022%E2%80%932026-9D4EDD?style=flat-square" />
+<img src="https://img.shields.io/badge/OPEN%20TO-AI%20%7C%20Python%20%7C%20Full--Stack-00F5A0?style=flat-square" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF88,25:00E5FF,50:7C3AED,75:FF00C8,100:00FF88&height=3&section=header" />
-
-🕶️ root@crackyyytech:~$ whoami
+01 // EXECUTIVE_PROFILE
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="58%" valign="top">
 
-⚡ IDENTITY FILE
+👋 About Me
 
-I'm Sudalai Manikandan S — a Python Developer, Full-Stack Engineer, and AI Builder focused on practical AI, intelligent web systems, automation, and production-ready applications.
+I'm Sudalai Manikandan S, a Python Developer, Full-Stack Engineer, and AI Builder focused on building practical software across AI/ML, full-stack development, computer vision, NLP, LLM integrations, and automation.
 
-codename: crackyyytech
-name: Sudalai Manikandan S
-location: Tenkasi, India
-role:
-  - Python Developer
-  - Full-Stack Engineer
-  - AI Builder
-education:
-  degree: B.E. Computer Science and Engineering
-  period: 2022 - 2026
-primary_weapon: Python
-combat_style: AI + Full Stack + Automation
-status: "BUILDING"
+I enjoy turning ideas into working products: from backend APIs and intelligent workflows to user-facing applications, dashboards, and deployment-ready systems.
+
+What I bring
+
+Python-first backend development
+
+Full-stack product development
+
+AI/ML and computer vision integration
+
+NLP/LLM-powered workflows
+
+Database-backed applications
+
+API integration and deployment support
+
+Strong interest in polished UI/UX and practical automation
 
 </td>
-<td width="44%" valign="top">
+<td width="42%" valign="top">
 
-🧬 CORE PROCESS
+🛰️ System Identity
 
-class CrackyyyTech:
-    def __init__(self):
-        self.weapon = "Python"
-        self.stack = ["React", "Flask", "Django", "Node.js"]
-        self.ai = ["NLP", "LLM", "YOLO", "OpenCV"]
-        self.energy = "∞"
+identity:
+  name: "Sudalai Manikandan S"
+  class: "Developer"
+  rank: "Builder"
+  main_stack: "Python + React"
+  power_core: "AI + Automation"
+  location: "Tenkasi, India"
 
-    def execute(self):
-        return "Build -> Debug -> Deploy -> Upgrade"
-
-agent = CrackyyyTech()
-print(agent.execute())
-
-🎯 CURRENT OBJECTIVE
-
-Ship stronger AI projects
-
-Add clean docs + screenshots
-
-Improve testing + CI
-
-Build production-grade systems
-
-Keep profile recruiter-ready
+mission:
+  - build useful products
+  - solve real problems
+  - ship production-minded software
+  - keep learning continuously
 
 </td>
 </tr>
 </table>
 
-🧠 systemctl status skill-core
+02 // CORE_CAPABILITIES
 
 <div align="center">
 
-⚔️ PRIMARY ARSENAL
+Area
 
-<img src="https://skillicons.dev/icons?i=python,js,php,sql&theme=dark" />
+What I Work With
 
-🌐 FRONTEND OPS
+Typical Outcomes
+
+🤖 AI / ML
+
+scikit-learn, pandas, NumPy, LLM APIs
+
+Classification, scoring, AI-assisted workflows
+
+👁️ Computer Vision
+
+OpenCV, YOLO
+
+Detection, counting, tracking, monitoring
+
+🗣️ NLP / LLM
+
+NLP, LangChain, Gemini/LLM integrations
+
+Translation, Q&A, language workflows
+
+🌐 Full-Stack
+
+React, Next.js, Flask, Django, Node.js
+
+SaaS apps, dashboards, admin systems
+
+🗄️ Data
+
+MongoDB, MySQL, PostgreSQL, Prisma
+
+Database-backed applications
+
+⚙️ Engineering
+
+Git, GitHub, Postman, Docker, AWS, Vercel
+
+API testing, version control, deployment
+
+</div>
+
+03 // TECH_STACK
+
+<div align="center">
+
+Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,php&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/SQL-Data%20Querying-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma&theme=dark" />
 
-⚙️ BACKEND ENGINE
+Backend
 
 <img src="https://skillicons.dev/icons?i=flask,django,nodejs,express&theme=dark" />
 
-🗄️ DATA VAULT
+Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
 
-☁️ DEPLOYMENT GRID
+Tools / Cloud
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,vscode&theme=dark" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=ultralytics&logoColor=00FF88" />
+<img src="https://img.shields.io/badge/YOLO-Computer%20Vision-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-FF00C8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM%20Integration-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-00E5FF?style=for-the-badge&logo=fastapi&logoColor=111827" />
+<img src="https://img.shields.io/badge/LLM%20Integration-9D4EDD?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-00E5FF?style=for-the-badge" />
 
 </div>
 
-🔓 ls -la /featured-projects
+04 // FEATURED_MISSIONS
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=850&color=FF4ECD&center=true&vCenter=true&width=760&lines=%24+ls+-la+%2Ffeatured-projects;%24+loading+high-signal+work...;%24+mission+archive+ready." />
+</div>
 
 <table>
 <tr>
@@ -127,40 +179,38 @@ Keep profile recruiter-ready
 
 🛡️ JobGuard AI
 
-Fraud detection system for suspicious job postings
+AI-powered fraudulent job posting detector
 
-<img src="https://img.shields.io/badge/TYPE-AI%20SECURITY-FF00C8?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square" />
+Python Flask scikit-learn NLP
 
-> ingest job text
-> preprocess features
-> classify fraud risk
-> expose results through API
-> support analytics workflow
+Detects potentially fraudulent job postings using ML-based classification
 
-Mission: detect fake jobs using machine learning.
+Uses text preprocessing and feature extraction
+
+Structured around a Flask-based backend/API workflow
+
+Built around a practical trust-and-safety use case
+
+Signal: AI/ML + NLP + backend engineering
 
 </td>
 <td width="50%" valign="top">
 
 👁️ Crowd Monitoring System
 
-Real-time crowd detection, counting and tracking
+Real-time people detection and crowd analytics
 
-<img src="https://img.shields.io/badge/TYPE-VISION%20OPS-00E5FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLO-111827?style=flat-square" />
+Python OpenCV YOLO Flask
 
-> capture live stream
-> detect people
-> count density
-> track movement
-> output visual analytics
+Detects and counts people from live video streams
 
-Mission: turn video into crowd intelligence.
+Supports crowd density and movement monitoring
+
+Uses computer vision for real-time visual analysis
+
+Designed around monitoring and reporting workflows
+
+Signal: Computer Vision + Real-Time Systems
 
 </td>
 </tr>
@@ -169,40 +219,38 @@ Mission: turn video into crowd intelligence.
 
 🎓 LLM EduConnect
 
-AI-assisted educational platform
+AI-supported educational learning platform
 
-<img src="https://img.shields.io/badge/TYPE-EDTECH%20AI-FFD600?style=flat-square" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+React Node.js MongoDB Gemini API
 
-> student flow
-> teacher flow
-> admin flow
-> AI Q&A support
-> adaptive learning experience
+AI-assisted educational experience
 
-Mission: make education smarter with AI.
+Student, teacher, and admin-oriented flows
+
+Interactive Q&A and content support
+
+Full-stack architecture with LLM integration
+
+Signal: Full-Stack + LLM Product Development
 
 </td>
 <td width="50%" valign="top">
 
 🌐 AI Translator
 
-AI-powered multilingual translation workflow
+AI-assisted multilingual translation application
 
-<img src="https://img.shields.io/badge/TYPE-LANGUAGE%20AI-FF3D00?style=flat-square" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" />
+Next.js Gemini API AI APIs
 
-> receive language input
-> normalize text
-> translate with AI
-> render output
-> prepare deployment-ready UI
+Translation-focused web application
 
-Mission: break language barriers with practical AI.
+AI API integration
+
+Built around multilingual language workflows
+
+Designed with deployment-ready frontend structure
+
+Signal: Language AI + Product Integration
 
 </td>
 </tr>
@@ -213,143 +261,219 @@ Mission: break language barriers with practical AI.
 
 Full-stack food ordering platform
 
-<img src="https://img.shields.io/badge/TYPE-FULL%20STACK-00FF88?style=flat-square" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+React Node.js Prisma PostgreSQL
 
-> authenticate users
-> manage cart
-> process orders
-> control admin dashboard
-> persist with database
+Authentication and cart workflows
 
-Mission: deliver a clean end-to-end ordering flow.
+Admin dashboard
+
+Database-backed order flow
+
+Modern full-stack project structure
+
+Signal: End-to-End Full-Stack Development
 
 </td>
 <td width="50%" valign="top">
 
 💼 Developer Portfolio
 
-Personal developer identity + showcase
+Personal portfolio and project showcase
 
-<img src="https://img.shields.io/badge/TYPE-PERSONAL%20BRAND-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+Next.js TypeScript Tailwind CSS
 
-> showcase skills
-> present projects
-> strengthen personal brand
-> optimize recruiter visibility
+Responsive personal branding site
 
-Mission: convert work into a strong developer identity.
+Modern frontend tooling
+
+Project-oriented presentation
+
+Recruiter-friendly showcase structure
+
+Signal: Frontend + Personal Branding
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/%5BENTER%20ARSENAL%5D-VIEW%20ALL%20REPOSITORIES-00FF88?style=for-the-badge&logo=github&logoColor=black" /></a>
+<a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-Open%20Project%20Archive-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
-🩸 cat /etc/power-matrix.conf
-
-<div align="center">
-
-MODULE
-
-STATUS
-
-OUTPUT
-
-🤖 AI / ML
-
-ONLINE
-
-Fraud Detection, ML Pipelines, AI Assistants
-
-🌐 Full-Stack
-
-ONLINE
-
-Dashboards, APIs, SaaS, Admin Panels
-
-👁️ Computer Vision
-
-ONLINE
-
-YOLO, Tracking, Detection, Crowd Analytics
-
-🗣️ NLP / LLM
-
-ONLINE
-
-Translation, Text Processing, LLM Features
-
-⚙️ Automation
-
-ONLINE
-
-Workflow Tools, Data Processing, Integrations
-
-</div>
-
-💥 COMBO ATTACKS
-
-[PYTHON] + [FLASK] + [ML]      => Intelligent API Product
-[REACT] + [NODE] + [DATABASE]  => Full-Stack Platform
-[OPENCV] + [YOLO]              => Real-Time Vision System
-[NLP] + [LLM APIs]             => Smart Language Workflow
-[GIT] + [DOCKER] + [CLOUD]     => Deployable Engineering
-
-🥷 cat /var/log/career.log
+05 // EXPERIENCE_LOG
 
 🟣 Software Developer Intern — VISTAWIN SOLUTION
 
-[+] Full-stack development using PHP, MySQL, React.js, VB.NET and Flask
-[+] AI translator workflow with speech-to-text, Tamil slang normalization,
-    translation and PDF export
-[+] Third-party API integration
-[+] VPS deployment support
-[+] Improved debugging, testing and Git workflow practices
+Focus: Full-Stack Development • AI Workflow • API Integration • Deployment
 
-🔵 Python Developer Intern — TechNest Intern
+Built production-oriented applications using PHP, MySQL, React.js, VB.NET, and Flask
 
-[+] Flask API development
-[+] Python backend modules
-[+] Workflow automation
-[+] Data-processing tasks
-[+] Structured error handling, logging and testing
+Worked on an AI translator workflow involving speech-to-text, Tamil slang normalization, translation, and PDF export
 
-🏆 sudo unlock /achievement-vault
+Integrated third-party APIs
 
-<div align="center">
+Supported deployment on VPS infrastructure
 
-<img src="https://github-profile-trophy.vercel.app/?username=crackyyytech&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/WEB--WITS-WINNER-FFD600?style=for-the-badge&logo=target&logoColor=black" />
-<img src="https://img.shields.io/badge/BUGG--BOSS-WINNER-FF3D00?style=for-the-badge&logo=bugcrowd&logoColor=white" />
-<img src="https://img.shields.io/badge/PYTHON-FUNDAMENTALS-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-</div>
-
-📡 netstat -an | grep github
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=crackyyytech&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF88&icon_color=00E5FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crackyyytech&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" />
+Strengthened debugging, testing, and Git-based development practices
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=crackyyytech&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=FF00C8&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=9CA3AF" alt="GitHub streak" />
+🔵 Python Developer Intern — TechNest Intern
+
+Focus: Python Backend • Flask APIs • Automation • Data Processing
+
+Built Flask APIs and Python backend modules
+
+Automated backend workflows and data-processing tasks
+
+Practiced structured error handling, logging, and testing workflows
+
+06 // PROJECT_SIGNAL_MATRIX
+
+<div align="center">
+
+Project
+
+AI/ML
+
+Backend
+
+Frontend
+
+Data
+
+CV/NLP
+
+JobGuard AI
+
+✅
+
+✅
+
+◻️
+
+✅
+
+NLP
+
+Crowd Monitoring
+
+✅
+
+✅
+
+◻️
+
+✅
+
+CV
+
+LLM EduConnect
+
+✅
+
+✅
+
+✅
+
+✅
+
+LLM
+
+AI Translator
+
+✅
+
+✅
+
+✅
+
+◻️
+
+NLP
+
+FoodKart
+
+◻️
+
+✅
+
+✅
+
+✅
+
+◻️
+
+Portfolio
+
+◻️
+
+◻️
+
+✅
+
+◻️
+
+◻️
+
+</div>
+
+07 // ENGINEERING_MINDSET
+
+Problem
+  ↓
+Understand users + constraints
+  ↓
+Choose the simplest useful architecture
+  ↓
+Build the working core
+  ↓
+Test the important paths
+  ↓
+Improve UI + developer experience
+  ↓
+Deploy
+  ↓
+Document
+  ↓
+Iterate
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PRINCIPLE-Real%20Projects%20%3E%20Empty%20Theory-00F5A0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PRINCIPLE-Build%20%7C%20Test%20%7C%20Ship-00E5FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PRINCIPLE-Clean%20UI%20%2B%20Useful%20Logic-FF4ECD?style=for-the-badge" />
+
+</div>
+
+08 // ACHIEVEMENT_VAULT
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=crackyyytech&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=crackyyytech&bg_color=0D1117&color=00FF88&line=00E5FF&point=FF00C8&area=true&hide_border=true" alt="Contribution graph" />
+<img src="https://img.shields.io/badge/Web--Wits-National%20Level%20Symposium%20Winner-FFD600?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bugg--Boss-National%20Level%20Symposium%20Winner-FF7A00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python%20Fundamentals-Great%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+</div>
+
+09 // GITHUB_TELEMETRY
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=crackyyytech&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F5A0&icon_color=00E5FF&text_color=FFFFFF" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crackyyytech&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=FF4ECD&text_color=FFFFFF" alt="Top languages" />
+
+<br/><br/>
+
+<img width="72%" src="https://streak-stats.demolab.com?user=crackyyytech&theme=dark&hide_border=true&background=0D1117&ring=00F5A0&fire=FF7A00&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=8B949E" alt="GitHub streak" />
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=crackyyytech&bg_color=0D1117&color=00F5A0&line=9D4EDD&point=00E5FF&area=true&hide_border=true" alt="Contribution graph" />
 
 <br/><br/>
 
@@ -357,79 +481,17 @@ Workflow Tools, Data Processing, Integrations
 
 </div>
 
-🎮 ./player_stats --mode=anime
-
-<div align="center">
-
-ATTRIBUTE
-
-LEVEL
-
-STATE
-
-🐍 Python Engineering
-
-█████████░ 90%
-
-MAIN WEAPON
-
-🤖 AI / ML
-
-████████░░ 85%
-
-POWER CORE
-
-🌐 Full-Stack
-
-████████░░ 85%
-
-BATTLE READY
-
-👁️ Computer Vision
-
-████████░░ 80%
-
-TRACKING
-
-🗣️ NLP / LLM
-
-████████░░ 80%
-
-EXPANDING
-
-🗄️ Databases
-
-████████░░ 80%
-
-STABLE
-
-☁️ Deployment
-
-███████░░░ 70%
-
-LEVELING UP
-
-🧪 Testing / CI
-
-██████░░░░ 65%
-
-TRAINING ARC
-
-</div>
-
-Visual presentation only — not a formal proficiency score.
-
-🧩 cat ~/quest.log
+10 // ACTIVE_QUESTS
 
 + Improve public project documentation
-+ Add screenshots, setup guides, architecture notes and demos
-+ Add issue / PR templates
-+ Improve branch-based workflows
-+ Add tests and CI checks
-+ Keep polished recruiter-ready repositories public
-+ Build more production-quality AI + full-stack tools
++ Add screenshots, setup guides, and demo links
++ Add tests and CI checks to showcase repositories
++ Improve project structure and maintainability
++ Keep only polished, recruiter-ready repositories public
++ Build stronger AI + full-stack products
++ Continue improving deployment and cloud skills
 
-⚔️ ./boss_battle --roadmap
+11 // DEVELOPMENT_ROADMAP
 
 flowchart LR
     A[Idea] --> B[Research]
@@ -439,61 +501,57 @@ flowchart LR
     E --> F[Deploy]
     F --> G[Document]
     G --> H[Improve]
-    H --> I[Level Up]
+    H --> I[Scale / Learn]
 
-🛰️ uname -a && devops --status
+12 // TERMINAL_MODE
 
-<div align="center">
+$ whoami
+Sudalai Manikandan S
 
-<img src="https://img.shields.io/badge/OS-Windows%20%2F%20Linux-00E5FF?style=for-the-badge&logo=windows11&logoColor=black" />
-<img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Deploy-Vercel%20%7C%20AWS%20%7C%20VPS-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+$ cat role.txt
+Python Developer | Full-Stack Engineer | AI Builder
 
-</div>
+$ cat focus.txt
+AI/ML | Computer Vision | NLP/LLM | Full-Stack | Automation
 
-🐍 contribution_snake --execute
+$ cat philosophy.txt
+Build useful things.
+Write understandable code.
+Learn from failures.
+Ship better versions.
 
-<div align="center">
+$ status
+[ONLINE] Ready for meaningful engineering opportunities.
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-
-</div>
-
-🌃 echo $PHILOSOPHY
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=19&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=930&lines=%5B01%5D+I+DON'T+JUST+LEARN+TECH+%E2%80%94+I+BUILD+WITH+IT.;%5B02%5D+REAL+PROJECTS+%3E+EMPTY+THEORY.;%5B03%5D+EVERY+BUG+IS+ANOTHER+LEVEL.;%5B04%5D+BUILD.+TEST.+SHIP.+UPGRADE.+REPEAT." />
-
-「 CODE WITH PURPOSE // BUILD WITH POWER // SHIP WITH DISCIPLINE 」
-
-</div>
-
-📞 ssh connect@crackyyytech
+13 // CONNECT
 
 <div align="center">
 
-<a href="https://portfolio-six-fawn-59.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+Have a project, internship, role, collaboration, or technical idea?
+
+<a href="https://portfolio-six-fawn-59.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/mani2005"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:crackyyy.tech@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/crackyyytech"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=00FF88" /></a>
+<a href="https://github.com/crackyyytech"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-┌────────────────────────────────────────────────────────────────────┐
-│ OPEN TO: AI • PYTHON • FULL-STACK • AUTOMATION OPPORTUNITIES     │
-│ STATUS : READY FOR NEXT MISSION                                   │
-└────────────────────────────────────────────────────────────────────┘
+<img src="https://komarev.com/ghpvc/?username=crackyyytech&label=PROFILE+VISITORS&color=00F5A0&style=for-the-badge" alt="Profile views" />
+
+<br/><br/>
+
+╔══════════════════════════════════════════════════════════════════╗
+║  OPEN TO: PYTHON • AI • FULL-STACK • AUTOMATION OPPORTUNITIES  ║
+╚══════════════════════════════════════════════════════════════════╝
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:00FF88,50:00E5FF,75:7C3AED,100:FF00C8&height=160&section=footer&animation=twinkling" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=860&lines=%5BSYSTEM%5D+Profile+session+complete.;%5BMESSAGE%5D+Thanks+for+visiting+my+developer+universe.;%5BACTION%5D+Explore+projects.+Connect.+Build+something+useful." />
 
-> SESSION TERMINATED SUCCESSFULLY_
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,25:00E5FF,50:6C63FF,75:FF4ECD,100:FF7A00&height=150&section=footer&animation=twinkling" />
 
-⭐ Star • 🍴 Fork • 🤝 Connect • ⚡ Build Something Powerful
+Build • Test • Ship • Improve • Repeat
 
 </div>
