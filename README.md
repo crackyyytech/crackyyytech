@@ -1,14 +1,3 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  SUDALAI MANIKANDAN S // ANIME + HACKER PROFILE README                   ║
-║  Cyberpunk Terminal • Neon Action • Recruiter-Friendly • GitHub Safe      ║
-╚══════════════════════════════════════════════════════════════════════════════╝
--->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF88,20:00E5FF,45:7C3AED,70:FF00C8,100:0D1117&height=260&section=header&text=SUDALAI%20MANIKANDAN%20S&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=37&desc=%3E_%20PYTHON%20DEVELOPER%20%7C%20FULL-STACK%20ENGINEER%20%7C%20AI%20BUILDER&descAlignY=58&descSize=18" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=1900&pause=600&color=00FF88&center=true&vCenter=true&repeat=true&width=980&height=84&lines=%5BSYSTEM%5D+Booting+developer+core...;%5BACCESS+GRANTED%5D+AI+Builder+online.;%5BMODULE%5D+Python+%7C+React+%7C+Flask+%7C+Django+%7C+Node.js;%5BSCAN%5D+NLP+%7C+LLM+%7C+Computer+Vision+%7C+Automation;%5BMISSION%5D+Build.+Break.+Debug.+Ship.+Repeat." alt="Animated terminal intro" />
 
 <br/>
