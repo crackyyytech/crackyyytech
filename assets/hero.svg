@@ -48,7 +48,7 @@
 </g>
 <!-- speech bubble -->
 <path d="M630 96 Q630 66 662 66 L842 66 Q874 66 874 96 L874 136 Q874 166 842 166 L708 166 L682 192 L692 166 L662 166 Q630 166 630 136 Z" fill="#ffffff" stroke="#1b1b2f" stroke-width="4"/>
-<text x="670" y="128" fill="#1b1b2f" font-family="Trebuchet MS, Arial, sans-serif" font-size="24" font-weight="bold">SAY&#160;HELLO&#160;TO&#160;TECH!</text>
+<text x="752" y="128" text-anchor="middle" fill="#1b1b2f" font-family="Trebuchet MS, Arial, sans-serif" font-size="20" font-weight="bold">SAY&#160;HELLO&#160;TO&#160;TECH!</text>
 <!-- title -->
 <text x="56" y="110" fill="#1b1b2f" font-family="Trebuchet MS, Arial, sans-serif" font-size="30" font-weight="bold">HELLO! I'M</text>
 <text x="52" y="196" fill="url(#popText)" font-family="Trebuchet MS, Arial, sans-serif" font-size="58" font-weight="bold">SUDALAI</text>
