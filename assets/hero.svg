@@ -48,11 +48,11 @@
 </g>
 <!-- speech bubble -->
 <path d="M630 96 Q630 66 662 66 L842 66 Q874 66 874 96 L874 136 Q874 166 842 166 L708 166 L682 192 L692 166 L662 166 Q630 166 630 136 Z" fill="#ffffff" stroke="#1b1b2f" stroke-width="4"/>
-<text x="676" y="128" fill="#1b1b2f" font-family="Trebuchet MS, Arial, sans-serif" font-size="26" font-weight="bold">OPEN&#160;TO&#160;WORK!</text>
+<text x="670" y="128" fill="#1b1b2f" font-family="Trebuchet MS, Arial, sans-serif" font-size="24" font-weight="bold">SAY&#160;HELLO&#160;TO&#160;TECH!</text>
 <!-- title -->
 <text x="56" y="110" fill="#1b1b2f" font-family="Trebuchet MS, Arial, sans-serif" font-size="30" font-weight="bold">HELLO! I'M</text>
 <text x="52" y="196" fill="url(#popText)" font-family="Trebuchet MS, Arial, sans-serif" font-size="58" font-weight="bold">SUDALAI</text>
 <text x="52" y="262" fill="#1b1b2f" font-family="Trebuchet MS, Arial, sans-serif" font-size="58" font-weight="bold">MANIKANDAN S</text>
-<text x="56" y="310" fill="#38b6ff" font-family="Trebuchet MS, Arial, sans-serif" font-size="24" font-weight="bold">AI ENGINEER <tspan fill="#ff6b3d">+</tspan> FULL-STACK DEV</text>
-<text x="56" y="344" fill="#1b1b2f" font-family="Trebuchet MS, Arial, sans-serif" font-size="19">PYTHON / REACT / PHP / VB.NET / SQL</text>
+<text x="56" y="310" fill="#38b6ff" font-family="Trebuchet MS, Arial, sans-serif" font-size="24" font-weight="bold">IT <tspan fill="#ff6b3d">+</tspan> AI <tspan fill="#ff6b3d">+</tspan> SOFTWARE</text>
+<text x="56" y="344" fill="#1b1b2f" font-family="Trebuchet MS, Arial, sans-serif" font-size="19">DEVELOPER / MACHINE LEARNING / DATA / AUTOMATION</text>
 </svg>

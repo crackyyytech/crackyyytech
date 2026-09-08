@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-![Sudalai Manikandan S — AI Engineer and Full-Stack Software Engineer](assets/hero.svg)
+![Sudalai Manikandan S — IT + AI + Software, Manga Pop Style](assets/hero.svg)
 
 <p align="center">
   <a href="https://portfolio-crackyyytechs-projects.vercel.app/"><img src="assets/button-0.svg" width="23%" alt="Portfolio" /></a>
@@ -14,9 +14,11 @@
 <a id="about"></a>
 ## ABOUT ME
 
-I'm **Sudalai Manikandan S**, a software developer from **Tenkasi, Tamil Nadu, India**. I build business applications, REST APIs and AI features using **Python, React, PHP, VB.NET and SQL**, with hands-on work across billing/inventory, computer vision, language tools and automation — from app logic to testing to VPS deployment.
+Hi! I'm **Sudalai Manikandan S**, an **IT professional** from **Tenkasi, Tamil Nadu, India**. I work across the full IT spectrum — **software development, machine learning, data processing, databases and automation**.
 
-**Interested in:** AI Engineer · Python Developer · Full-Stack Developer
+My hands-on work spans **business applications (Python, React, PHP, VB.NET, SQL)**, **computer vision**, **language tools**, **REST APIs** and **Linux VPS deployment** — from application logic to testing and production.
+
+**Skills across:** Software Development · AI / ML · Data Analysis · Web Apps · Databases (SQL / NoSQL) · Automation · Deployment
 
 ---
 
@@ -105,7 +107,7 @@ I'm **Sudalai Manikandan S**, a software developer from **Tenkasi, Tamil Nadu, I
 <a id="connect"></a>
 ## LET'S CONNECT
 
-I'm open for AI, web, and automation work. Want to discuss a project? Tell me the problem, expected outcome and timeline.
+Have an IT, AI, software or automation project idea? Send the problem, expected outcome and timeline.
 
 **Email:** [crackyyy.tech@gmail.com](mailto:crackyyy.tech@gmail.com)
 **LinkedIn:** [linkedin.com/in/crackyyy-tech](https://www.linkedin.com/in/crackyyy-tech/)

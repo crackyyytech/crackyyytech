@@ -13,5 +13,6 @@
 <rect x="30" y="172" width="118" height="26" rx="13" fill="#3bd6a8"/><text x="44" y="189" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="14" font-weight="bold">Next.js</text>
 <rect x="156" y="172" width="122" height="26" rx="13" fill="#a855f7"/><text x="170" y="189" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="14" font-weight="bold">Gemini AI</text>
 <rect x="286" y="172" width="96" height="26" rx="13" fill="#38b6ff"/><text x="302" y="189" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="14" font-weight="bold">Genkit</text>
-<path d="M374 31 h60 v54" stroke="#3bd6a8" stroke-width="4" fill="#5fe5b6"/>
-<text x="392" y="72" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="22" font-weight="bold" filter="url(#sh)">OPEN</text></svg>
+<rect x="352" y="166" width="112" height="38" rx="19" fill="#3bd6a8"/>
+<path d="M368 185 L388 185 M388 178 L396 185 L388 192" stroke="#ffffff" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="402" y="190" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="16" font-weight="bold">OPEN</text></svg>

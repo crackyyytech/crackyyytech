@@ -13,5 +13,6 @@
 <rect x="30" y="172" width="118" height="26" rx="13" fill="#ff6b3d"/><text x="44" y="189" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="14" font-weight="bold">OpenCV</text>
 <rect x="156" y="172" width="96" height="26" rx="13" fill="#ff2392"/><text x="172" y="189" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="14" font-weight="bold">YOLO</text>
 <rect x="260" y="172" width="88" height="26" rx="13" fill="#a855f7"/><text x="278" y="189" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="14" font-weight="bold">Flask</text>
-<path d="M374 31 h60 v54" stroke="#ff6b3d" stroke-width="4" fill="#ff915c"/>
-<text x="392" y="72" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="22" font-weight="bold" filter="url(#sh)">OPEN</text></svg>
+<rect x="352" y="166" width="112" height="38" rx="19" fill="#ff6b3d"/>
+<path d="M368 185 L388 185 M388 178 L396 185 L388 192" stroke="#ffffff" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="402" y="190" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="16" font-weight="bold">OPEN</text></svg>
