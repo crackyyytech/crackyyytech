@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="216" viewBox="0 0 480 216"><defs><linearGradient id="g"><stop stop-color="#32e6da"/><stop offset=".48" stop-color="#af83ff"/><stop offset="1" stop-color="#ff73bb"/></linearGradient></defs><rect width="480" height="216" rx="20" fill="#0d1224"/><rect x="1" y="1" width="478" height="214" rx="20" stroke="#32e6da" fill="none"/><text x="24" y="35" fill="#32e6da" font-family="DejaVu Sans, sans-serif" font-size="11" font-weight="700">01  /  MACHINE LEARNING</text><text x="24" y="81" fill="#f1f4ff" font-family="DejaVu Sans, sans-serif" font-size="27" font-weight="700">JobGuard AI</text><text x="24" y="117" fill="#bcc9e0" font-family="DejaVu Sans, sans-serif" font-size="15" font-weight="400">Flag suspicious job postings.</text><text x="24" y="157" fill="#32e6da" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="400">Python · Flask · scikit-learn · NLP</text><text x="24" y="192" fill="#ffffff" font-family="DejaVu Sans, sans-serif" font-size="12" font-weight="700">EXPLORE REPOSITORY  →</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="216" viewBox="0 0 480 216"><defs>
+<linearGradient id="pg1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00f0ff"/><stop offset="0.5" stop-color="#00ff9f"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+<filter id="pn1" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="480" height="216" rx="12" fill="#0a0e22"/>
+<rect x="1" y="1" width="478" height="214" rx="11" fill="none" stroke="#00f0ff" stroke-opacity="0.6" stroke-width="1.5"/>
+<path d="M0 48 H480" stroke="#1c2b5a" stroke-width="1.5" fill="none"/>
+<path d="M420 48 L452 84" stroke="#00f0ff" stroke-opacity="0.4" stroke-width="1.5" fill="none"/>
+<text x="20" y="31" fill="#00f0ff" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" letter-spacing="3">01&#160;/&#160;MACHINE&#160;LEARNING</text>
+<text x="20" y="84" fill="#00ff9f" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" filter="url(#pn1)">&gt;&#160;TRACK::JOBGUARD_AI</text>
+<text x="20" y="125" fill="#f7fbff" font-family="Consolas, 'Courier New', monospace" font-size="27" font-weight="800">JobGuard AI</text>
+<text x="20" y="154" fill="#aab6dc" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="400">Flag suspicious job postings with NLP.</text>
+<text x="20" y="184" fill="#7f8cb8" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="400">Python / Flask / scikit-learn / NLP</text>
+<text x="20" y="204" fill="#00f0ff" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700">[ OPEN_REPO&#160;&gt;&gt; ]</text>
+<rect x="0" y="0" width="6" height="48" fill="url(#pg1)"/>
+</svg>

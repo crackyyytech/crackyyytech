@@ -9,19 +9,29 @@
   <a href="https://github.com/crackyyytech?tab=repositories"><img src="assets/button-3.svg" width="23%" alt="Projects" /></a>
 </p>
 
-<p align="center"><a href="#about">About</a> · <a href="#projects">Projects</a> · <a href="#stack">Skills</a> · <a href="#experience">Experience</a> · <a href="#activity">GitHub</a> · <a href="#connect">Contact</a></p>
+<p align="center"><a href="#about">[ ABOUT ]</a> · <a href="#projects">[ PROJECTS ]</a> · <a href="#stack">[ STACK ]</a> · <a href="#experience">[ LOG ]</a> · <a href="#activity">[ ACTIVITY ]</a> · <a href="#connect">[ CONNECT ]</a></p>
+
+---
 
 <a id="about"></a>
-## 🟢 Building software that solves everyday problems
+## `// ABOUT`
 
-I'm **Sudalai Manikandan S**, a software developer based in **Tenkasi, Tamil Nadu, India**. I build business applications, REST APIs and AI-enabled features, with hands-on work across Python, React, PHP, VB.NET and SQL databases.
+```diff
++ MODULE   : SUDALAI MANIKANDAN S
++ LOCATION : TENKASI, TAMIL NADU, INDIA
++ ROLE     : SOFTWARE DEVELOPER
++ FOCUS    : BUSINESS APPS / REST APIs / AI FEATURES
++ STACK    : PYTHON / REACT / PHP / VB.NET / SQL
+```
 
-My work spans **billing and inventory**, **computer vision**, **language tools**, and **automation**—from application logic and database troubleshooting to testing and VPS deployment.
+I build **business applications, REST APIs and AI-enabled features**, with hands-on work across Python, React, PHP, VB.NET and SQL databases. My work spans **billing and inventory**, **computer vision**, **language tools**, and **automation** — from application logic and database troubleshooting to testing and VPS deployment.
 
-**Interested in:** AI Engineer · Python Developer · Full-Stack Developer opportunities.
+> **OPEN_TO:** AI Engineer · Python Developer · Full-Stack Developer
+
+---
 
 <a id="projects"></a>
-## 🟣 Explore my work
+## `// EXPLORE PROJECTS`
 
 <p>
 <a href="https://github.com/crackyyytech/fake_job_detect"><img src="assets/jobguard.svg" width="49%" alt="JobGuard AI: Flag suspicious job postings. Open repository." /></a>
@@ -33,61 +43,63 @@ My work spans **billing and inventory**, **computer vision**, **language tools**
 <a href="https://github.com/crackyyytech/Python_Internship"><img src="assets/internship.svg" width="49%" alt="Python Internship: Automation, data and reporting projects. Open repository." /></a>
 </p>
 
-| Project | What it demonstrates | Review |
-| --- | --- | --- |
-| **JobGuard AI** | NLP classification, risk scoring, API and analytics workflows | [Source & setup](https://github.com/crackyyytech/fake_job_detect) |
-| **Crowd Monitoring** | Video-based people detection, crowd analysis and reporting | [Source & setup](https://github.com/crackyyytech/crowd_monitering) |
-| **Translate AI** | Next.js interface and Gemini/Genkit translation integration | [Source & setup](https://github.com/crackyyytech/translate-ai) |
-| **Python Internship** | Python project work from my internship | [Browse code](https://github.com/crackyyytech/Python_Internship) |
+| ID | PROJECT | SIGNAL | REPO |
+| --- | --- | --- | --- |
+| **01** | JobGuard AI | NLP classification, risk scoring, API + analytics | [open_repo](https://github.com/crackyyytech/fake_job_detect) |
+| **02** | Crowd Monitoring | Video people detection, crowd analysis, reporting | [open_repo](https://github.com/crackyyytech/crowd_monitering) |
+| **03** | Translate AI | Next.js + Gemini/Genkit translation integration | [open_repo](https://github.com/crackyyytech/translate-ai) |
+| **04** | Python Internship | Python project work from my internship | [browse_code](https://github.com/crackyyytech/Python_Internship) |
 
 <details>
-<summary><b>☕ More work: billing, inventory and language workflows</b></summary>
+<summary><b>MORE / billing, inventory and language workflows</b></summary>
 
 **Tea Shop Billing & Inventory App** — Flutter application covering invoicing, stock management, automatic stock deduction, sales reporting, user administration and thermal-printer workflows.
 
-**Business translation workflow** — Python/Flask integrations covering speech-to-text, Tamil text normalization, translation APIs and PDF reports. This is described separately from the Next.js Translate AI repository above.
+**Business translation workflow** — Python/Flask integrations covering speech-to-text, Tamil text normalization, translation APIs and PDF reports. Described separately from the Next.js Translate AI repository above.
 
 [Ask me about these projects](mailto:crackyyy.tech@gmail.com?subject=Project%20discussion)
 
 </details>
 
+---
+
 <a id="stack"></a>
-## 🔵 Tools I work with
+## `// TOOLKIT`
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-32e6da?style=for-the-badge&labelColor=0d1224) ![JavaScript](https://img.shields.io/badge/JavaScript-32e6da?style=for-the-badge&labelColor=0d1224) ![PHP](https://img.shields.io/badge/PHP-32e6da?style=for-the-badge&labelColor=0d1224) ![VB.NET](https://img.shields.io/badge/VB.NET-32e6da?style=for-the-badge&labelColor=0d1224) ![SQL](https://img.shields.io/badge/SQL-32e6da?style=for-the-badge&labelColor=0d1224) 
+![Python](https://img.shields.io/badge/Python-00f0ff?style=for-the-badge&labelColor=05060f) ![JavaScript](https://img.shields.io/badge/JavaScript-00f0ff?style=for-the-badge&labelColor=05060f) ![PHP](https://img.shields.io/badge/PHP-00f0ff?style=for-the-badge&labelColor=05060f) ![VB.NET](https://img.shields.io/badge/VB.NET-00f0ff?style=for-the-badge&labelColor=05060f) ![SQL](https://img.shields.io/badge/SQL-00f0ff?style=for-the-badge&labelColor=05060f)
 
 **Web & mobile**
 
-![React](https://img.shields.io/badge/React-af83ff?style=for-the-badge&labelColor=0d1224) ![HTML5](https://img.shields.io/badge/HTML5-af83ff?style=for-the-badge&labelColor=0d1224) ![CSS3](https://img.shields.io/badge/CSS3-af83ff?style=for-the-badge&labelColor=0d1224) ![Django](https://img.shields.io/badge/Django-af83ff?style=for-the-badge&labelColor=0d1224) ![Flask](https://img.shields.io/badge/Flask-af83ff?style=for-the-badge&labelColor=0d1224) ![Node.js](https://img.shields.io/badge/Node.js-af83ff?style=for-the-badge&labelColor=0d1224) ![Flutter](https://img.shields.io/badge/Flutter-af83ff?style=for-the-badge&labelColor=0d1224) 
+![React](https://img.shields.io/badge/React-a855f7?style=for-the-badge&labelColor=05060f) ![HTML5](https://img.shields.io/badge/HTML5-a855f7?style=for-the-badge&labelColor=05060f) ![CSS3](https://img.shields.io/badge/CSS3-a855f7?style=for-the-badge&labelColor=05060f) ![Django](https://img.shields.io/badge/Django-a855f7?style=for-the-badge&labelColor=05060f) ![Flask](https://img.shields.io/badge/Flask-a855f7?style=for-the-badge&labelColor=05060f) ![Node.js](https://img.shields.io/badge/Node.js-a855f7?style=for-the-badge&labelColor=05060f) ![Flutter](https://img.shields.io/badge/Flutter-a855f7?style=for-the-badge&labelColor=05060f)
 
 **AI & data**
 
-![Pandas](https://img.shields.io/badge/Pandas-ff73bb?style=for-the-badge&labelColor=0d1224) ![scikit-learn](https://img.shields.io/badge/scikit--learn-ff73bb?style=for-the-badge&labelColor=0d1224) ![OpenCV](https://img.shields.io/badge/OpenCV-ff73bb?style=for-the-badge&labelColor=0d1224) ![YOLO](https://img.shields.io/badge/YOLO-ff73bb?style=for-the-badge&labelColor=0d1224) ![NLTK](https://img.shields.io/badge/NLTK-ff73bb?style=for-the-badge&labelColor=0d1224) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ff73bb?style=for-the-badge&labelColor=0d1224) 
+![Pandas](https://img.shields.io/badge/Pandas-ff2e97?style=for-the-badge&labelColor=05060f) ![scikit-learn](https://img.shields.io/badge/scikit--learn-ff2e97?style=for-the-badge&labelColor=05060f) ![OpenCV](https://img.shields.io/badge/OpenCV-ff2e97?style=for-the-badge&labelColor=05060f) ![YOLO](https://img.shields.io/badge/YOLO-ff2e97?style=for-the-badge&labelColor=05060f) ![NLTK](https://img.shields.io/badge/NLTK-ff2e97?style=for-the-badge&labelColor=05060f) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ff2e97?style=for-the-badge&labelColor=05060f)
 
 **Databases & delivery**
 
-![MySQL](https://img.shields.io/badge/MySQL-ffc568?style=for-the-badge&labelColor=0d1224) ![MongoDB](https://img.shields.io/badge/MongoDB-ffc568?style=for-the-badge&labelColor=0d1224) ![SQL Server](https://img.shields.io/badge/SQL%20Server-ffc568?style=for-the-badge&labelColor=0d1224) ![Git](https://img.shields.io/badge/Git-ffc568?style=for-the-badge&labelColor=0d1224) ![GitHub](https://img.shields.io/badge/GitHub-ffc568?style=for-the-badge&labelColor=0d1224) ![Postman](https://img.shields.io/badge/Postman-ffc568?style=for-the-badge&labelColor=0d1224) ![Linux VPS](https://img.shields.io/badge/Linux%20VPS-ffc568?style=for-the-badge&labelColor=0d1224) 
+![MySQL](https://img.shields.io/badge/MySQL-ffc568?style=for-the-badge&labelColor=05060f) ![MongoDB](https://img.shields.io/badge/MongoDB-ffc568?style=for-the-badge&labelColor=05060f) ![SQL Server](https://img.shields.io/badge/SQL%20Server-ffc568?style=for-the-badge&labelColor=05060f) ![Git](https://img.shields.io/badge/Git-ffc568?style=for-the-badge&labelColor=05060f) ![GitHub](https://img.shields.io/badge/GitHub-ffc568?style=for-the-badge&labelColor=05060f) ![Postman](https://img.shields.io/badge/Postman-ffc568?style=for-the-badge&labelColor=05060f) ![Linux VPS](https://img.shields.io/badge/Linux%20VPS-ffc568?style=for-the-badge&labelColor=05060f)
+
+---
 
 <a id="experience"></a>
-## 🟠 Experience
+## `// CAREER LOG`
 
-### Software Developer · VISTAWIN SOLUTION
-**Tenkasi · February 2026 – Present**
+**> 2026-FEB — Software Developer, VISTAWIN SOLUTION (Tenkasi, Tamil Nadu)**
 
 - Build and maintain business applications using PHP, MySQL, React.js, VB.NET and SQL Server.
 - Develop Python/Flask integrations for speech recognition, Tamil normalization, translation and PDF reporting.
 - Investigate application and database defects, test fixes, manage changes with Git and deploy to Linux VPS environments.
 
-### Python Developer Intern · TechNest Intern
-**Remote · July – August 2025**
+**> 2025-JUL — Python Developer Intern, TechNest Intern (Remote)**
 
 - Completed five Python projects covering file analysis, weather visualization, PDF reporting, an NLTK chatbot and spam-email classification.
 - Worked with Pandas, Matplotlib, scikit-learn, NLTK, FPDF and REST APIs.
 
 <details>
-<summary><b>🎓 Education & learning</b></summary>
+<summary><b>EDUCATION / learning nodes</b></summary>
 
 **Computer Science and Engineering studies · Trichy Engineering College · 2022–2026**
 
@@ -97,20 +109,31 @@ My work spans **billing and inventory**, **computer vision**, **language tools**
 
 </details>
 
+---
+
 <a id="activity"></a>
-## 🟡 GitHub snapshot
+## `// GH_ACTIVITY`
 
 [![Public repository snapshot](assets/activity.svg)](https://github.com/crackyyytech?tab=repositories)
 
 [Browse repositories](https://github.com/crackyyytech?tab=repositories) · [View contribution history](https://github.com/crackyyytech?tab=overview)
 
-<a id="connect"></a>
-## 💬 Let's build something useful
+---
 
-Have an AI feature, business application or automation problem in mind? Send me the problem, expected outcome and timeline.
+<a id="connect"></a>
+## `// TRANSMIT`
+
+```
+$ connect --via github.com/crackyyytech
+$ email     crackyyy.tech@gmail.com
+$ linkedin  linkedin.com/in/crackyyy-tech
+$ status    OPEN FOR COLLAB
+```
+
+Have an AI feature, business application or automation problem in mind? Send the problem, expected outcome and timeline.
 
 **[Discuss a project](mailto:crackyyy.tech@gmail.com?subject=Project%20discussion)** · **[Connect on LinkedIn](https://www.linkedin.com/in/crackyyy-tech/)** · **[Explore my portfolio](https://portfolio-crackyyytechs-projects.vercel.app/)**
 
-**Email:** crackyyy.tech@gmail.com
+---
 
 [↑ Back to top](#top)

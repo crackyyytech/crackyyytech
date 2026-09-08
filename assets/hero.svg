@@ -1,1 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360"><defs><linearGradient id="g"><stop stop-color="#32e6da"/><stop offset=".48" stop-color="#af83ff"/><stop offset="1" stop-color="#ff73bb"/></linearGradient></defs><rect width="1000" height="360" rx="20" fill="#0d1224"/><rect x="1" y="1" width="998" height="358" rx="20" fill="none" stroke="url(#g)" stroke-width="2"/><path d="M 700 0 L 580 360" stroke="#202840" fill="none"/><path d="M 722 0 L 602 360" stroke="#202840" fill="none"/><path d="M 744 0 L 624 360" stroke="#202840" fill="none"/><path d="M 766 0 L 646 360" stroke="#202840" fill="none"/><path d="M 788 0 L 668 360" stroke="#202840" fill="none"/><path d="M 810 0 L 690 360" stroke="#202840" fill="none"/><path d="M 832 0 L 712 360" stroke="#202840" fill="none"/><path d="M 854 0 L 734 360" stroke="#202840" fill="none"/><path d="M 876 0 L 756 360" stroke="#202840" fill="none"/><path d="M 898 0 L 778 360" stroke="#202840" fill="none"/><path d="M 920 0 L 800 360" stroke="#202840" fill="none"/><path d="M 942 0 L 822 360" stroke="#202840" fill="none"/><path d="M 964 0 L 844 360" stroke="#202840" fill="none"/><path d="M 986 0 L 866 360" stroke="#202840" fill="none"/><text x="42" y="48" fill="#32e6da" font-family="DejaVu Sans, sans-serif" font-size="14" font-weight="700">CRACKYYYTECH  /  DEVELOPER PROFILE</text><text x="42" y="112" fill="#f1f4ff" font-family="DejaVu Sans, sans-serif" font-size="48" font-weight="800">SUDALAI</text><text x="42" y="170" fill="#f1f4ff" font-family="DejaVu Sans, sans-serif" font-size="48" font-weight="800">MANIKANDAN S</text><text x="44" y="216" fill="#c6b4ff" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="400">AI Engineer  /  Full-Stack Software Engineer</text><text x="44" y="255" fill="#abb9d5" font-family="DejaVu Sans, sans-serif" font-size="17" font-weight="400">Practical AI. Useful applications. Real-world workflows.</text><text x="44" y="320" fill="#32e6da" font-family="DejaVu Sans, sans-serif" font-size="13" font-weight="700">TENKASI, INDIA     •     PYTHON + REACT     •     BUILD / TEST / SHIP</text><circle cx="830" cy="48" r="5" fill="#32e6da"><animate attributeName="opacity" values="1;.25;1" dur="2.0s" repeatCount="indefinite"/></circle><circle cx="860" cy="48" r="5" fill="#af83ff"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="890" cy="48" r="5" fill="#ff73bb"><animate attributeName="opacity" values="1;.25;1" dur="2.8s" repeatCount="indefinite"/></circle><circle cx="920" cy="48" r="5" fill="#ffc568"><animate attributeName="opacity" values="1;.25;1" dur="3.2s" repeatCount="indefinite"/></circle><circle cx="839" cy="181" r="61" fill="#151d36" stroke="url(#g)" stroke-width="2"/><text x="793" y="197" fill="#32e6da" font-family="DejaVu Sans, sans-serif" font-size="45" font-weight="700">&lt;/&gt;</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="380" viewBox="0 0 1000 380"><defs>
+<linearGradient id="cyber" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00f0ff"/><stop offset="0.5" stop-color="#a855f7"/><stop offset="1" stop-color="#ff2e97"/></linearGradient>
+<linearGradient id="cyberH" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00f0ff"/><stop offset="0.5" stop-color="#a855f7"/><stop offset="1" stop-color="#ff2e97"/></linearGradient>
+<radialGradient id="glow" cx="0.5" cy="0.45" r="0.6"><stop stop-color="#0b1030" stop-opacity="1"/><stop offset="1" stop-color="#05060f" stop-opacity="1"/></radialGradient>
+<filter id="neon" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="neonS" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1000" height="380" rx="20" fill="#05060f"/>
+<rect width="1000" height="380" rx="20" fill="url(#glow)"/>
+<!-- grid -->
+<path d="M0 60 H1000 M0 120 H1000 M0 180 H1000 M0 240 H1000 M0 300 H1000" stroke="#00f0ff" stroke-opacity="0.05" fill="none"/>
+<path d="M80 0 V380 M180 0 V380 M280 0 V380 M380 0 V380 M480 0 V380 M580 0 V380 M680 0 V380 M780 0 V380 M880 0 V380 M980 0 V380" stroke="#00f0ff" stroke-opacity="0.05" fill="none"/>
+<!-- angled data slices right -->
+<path d="M 720 0 L 640 380" stroke="#ff2e97" stroke-opacity="0.14" fill="none" stroke-width="2"/>
+<path d="M 750 0 L 670 380" stroke="#ff2e97" stroke-opacity="0.10" fill="none" stroke-width="2"/>
+<path d="M 780 0 L 700 380" stroke="#ff2e97" stroke-opacity="0.07" fill="none" stroke-width="2"/>
+<!-- corner brackets -->
+<path d="M22 34 H60 V60" stroke="url(#cyber)" stroke-width="3" fill="none"/>
+<rect x="1" y="1" width="998" height="378" rx="19" fill="none" stroke="url(#cyber)" stroke-width="2" stroke-opacity="0.6"/>
+<!-- status line -->
+<text x="42" y="40" fill="#00f0ff" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="4">â–® CRACKYYYTECH :: DEVELOPER PROFILE</text>
+<text x="42" y="40" fill="#00f0ff" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" letter-spacing="4" filter="url(#neonS)">â–® CRACKYYYTECH :: DEVELOPER PROFILE</text>
+<!-- name -->
+<text x="42" y="128" fill="#f7fbff" font-family="Consolas, 'Courier New', monospace" font-size="50" font-weight="800" letter-spacing="1">SUDALAI</text>
+<text x="42" y="188" fill="url(#cyberH)" font-family="Consolas, 'Courier New', monospace" font-size="50" font-weight="800" letter-spacing="1" filter="url(#neonS)">MANIKANDAN S</text>
+<!-- roles -->
+<text x="44" y="236" fill="#a855f7" font-family="Consolas, 'Courier New', monospace" font-size="21" font-weight="400">AI ENGINEER&#160;&#160;/&#160;&#160;FULL-STACK SOFTWARE ENGINEER</text>
+<text x="44" y="272" fill="#7f8cb8" font-family="Consolas, 'Courier New', monospace" font-size="16" font-weight="400">&gt; building practical AI, useful applications, real-world workflows</text>
+<!-- terminal prompt -->
+<text x="44" y="312" fill="#00ff9f" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="400">$ python deploy_profile.py --theme=cyber<span>â–®</span></text>
+<rect x="528" y="298" width="10" height="20" fill="#00ff9f" opacity="0.9"><animate attributeName="opacity" values="0.9;0;0.9" dur="1.1s" repeatCount="indefinite"/></rect>
+<text x="44" y="352" fill="#ff2e97" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="400">ACCESS GRANTED&#160;&#160;Â·&#160;&#160;STATUS: ONLINE&#160;&#160;Â·&#160;&#160;MODE: BUILD</text>
+</svg>
