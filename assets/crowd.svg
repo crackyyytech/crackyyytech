@@ -1,18 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="216" viewBox="0 0 480 216"><defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="226" viewBox="0 0 480 226"><defs>
 <filter id="sh"><feDropShadow dx="0" dy="5" stdDeviation="0" flood-color="#1b1b2f" flood-opacity="0.25"/></filter>
 </defs>
-<rect width="480" height="216" rx="22" fill="#ffffff"/>
-<rect x="3" y="3" width="474" height="210" rx="19" fill="#fff3e8"/>
+<rect width="480" height="226" rx="22" fill="#ffffff"/>
+<rect x="3" y="3" width="474" height="220" rx="19" fill="#fff3e8"/>
 <path d="M0 40 H480" stroke="#ff6b3d" stroke-width="4"/>
 <circle cx="30" cy="40" r="10" fill="#ff6b3d"/>
 <circle cx="56" cy="40" r="10" fill="#ffc800"/>
 <circle cx="82" cy="40" r="10" fill="#38b6ff"/>
 <text x="112" y="47" fill="#1b1b2f" font-family="Trebuchet MS, Arial, sans-serif" font-size="17" font-weight="bold">CROWD MONITORING</text>
-<text x="30" y="112" fill="#1b1b2f" font-family="Trebuchet MS, Arial, sans-serif" font-size="33" font-weight="bold">Detect people</text>
-<text x="30" y="152" fill="#1b1b2f" font-family="Trebuchet MS, Arial, sans-serif" font-size="33" font-weight="bold">&amp; crowd density</text>
-<rect x="30" y="172" width="118" height="26" rx="13" fill="#ff6b3d"/><text x="44" y="189" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="14" font-weight="bold">OpenCV</text>
-<rect x="156" y="172" width="96" height="26" rx="13" fill="#ff2392"/><text x="172" y="189" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="14" font-weight="bold">YOLO</text>
-<rect x="260" y="172" width="88" height="26" rx="13" fill="#a855f7"/><text x="278" y="189" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="14" font-weight="bold">Flask</text>
-<rect x="352" y="166" width="112" height="38" rx="19" fill="#ff6b3d"/>
-<path d="M368 185 L388 185 M388 178 L396 185 L388 192" stroke="#ffffff" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="402" y="190" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="16" font-weight="bold">OPEN</text></svg>
+<text x="30" y="108" fill="#1b1b2f" font-family="Trebuchet MS, Arial, sans-serif" font-size="31" font-weight="bold">Detect people</text>
+<text x="30" y="146" fill="#1b1b2f" font-family="Trebuchet MS, Arial, sans-serif" font-size="31" font-weight="bold">&amp; crowd density</text>
+<rect x="30" y="160" width="118" height="26" rx="13" fill="#ff6b3d"/><text x="44" y="177" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="14" font-weight="bold">OpenCV</text>
+<rect x="156" y="160" width="96" height="26" rx="13" fill="#ff2392"/><text x="172" y="177" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="14" font-weight="bold">YOLO</text>
+<rect x="260" y="160" width="88" height="26" rx="13" fill="#a855f7"/><text x="278" y="177" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="14" font-weight="bold">Flask</text>
+<rect x="16" y="196" width="448" height="22" rx="11" fill="#ff6b3d"/>
+<text x="158" y="211" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="14" font-weight="bold">VIEW PROJECT →</text></svg>

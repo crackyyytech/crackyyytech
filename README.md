@@ -9,6 +9,10 @@
   <a href="https://github.com/crackyyytech?tab=repositories"><img src="assets/button-3.svg" width="23%" alt="Projects" /></a>
 </p>
 
+<p align="center">
+  <a href="#about">ABOUT</a> · <a href="#projects">PROJECTS</a> · <a href="#stack">SKILLS</a> · <a href="#experience">EXPERIENCE</a> · <a href="#activity">GITHUB</a> · <a href="#connect">CONTACT</a>
+</p>
+
 ---
 
 <a id="about"></a>
@@ -25,11 +29,16 @@ My hands-on work spans **business applications (Python, React, PHP, VB.NET, SQL)
 <a id="projects"></a>
 ## MY PROJECTS
 
-<a href="https://github.com/crackyyytech/fake_job_detect"><img src="assets/jobguard.svg" width="49%" alt="JobGuard AI: Flag suspicious job postings. Open repository." /></a>
-<a href="https://github.com/crackyyytech/crowd_monitering"><img src="assets/crowd.svg" width="49%" alt="Crowd Monitoring: Detect people. Understand crowd density. Open repository." /></a>
+<a href="https://github.com/crackyyytech/fake_job_detect"><img src="assets/jobguard.svg" width="49%" alt="JobGuard AI: Flag suspicious job postings. View project." /></a>
+<a href="https://github.com/crackyyytech/crowd_monitering"><img src="assets/crowd.svg" width="49%" alt="Crowd Monitoring: Detect people and crowd density. View project." /></a>
 
-<a href="https://github.com/crackyyytech/translate-ai"><img src="assets/translate.svg" width="49%" alt="Translate AI: AI-assisted multilingual translation. Open repository." /></a>
-<a href="https://github.com/crackyyytech/Python_Internship"><img src="assets/internship.svg" width="49%" alt="Python Internship: Automation, data and reporting projects. Open repository." /></a>
+<a href="https://github.com/crackyyytech/translate-ai"><img src="assets/translate.svg" width="49%" alt="Translate AI: AI-assisted multilingual translation. View project." /></a>
+<a href="https://github.com/crackyyytech/Python_Internship"><img src="assets/internship.svg" width="49%" alt="Python Internship: Automation, data and reporting projects. View project." /></a>
+
+<p align="center">
+  <a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-1b1b2f?style=for-the-badge" alt="View all repositories" /></a>
+  <a href="mailto:crackyyy.tech@gmail.com?subject=Project%20discussion"><img src="https://img.shields.io/badge/More%20Projects%20%26%20Billing-ff8c1a?style=for-the-badge" alt="Ask about billing, inventory and language projects" /></a>
+</p>
 
 <details>
 <summary><b>More projects: billing, inventory &amp; language workflows</b></summary>
