@@ -1,16 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="216" viewBox="0 0 480 216"><defs>
-<linearGradient id="pg3" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#00ff9f"/><stop offset="0.5" stop-color="#00f0ff"/><stop offset="1" stop-color="#ff2e97"/></linearGradient>
-<filter id="pn3" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="sh"><feDropShadow dx="0" dy="5" stdDeviation="0" flood-color="#1b1b2f" flood-opacity="0.25"/></filter>
 </defs>
-<rect width="480" height="216" rx="12" fill="#0a0e22"/>
-<rect x="1" y="1" width="478" height="214" rx="11" fill="none" stroke="#00ff9f" stroke-opacity="0.6" stroke-width="1.5"/>
-<path d="M0 48 H480" stroke="#1c2b5a" stroke-width="1.5" fill="none"/>
-<path d="M420 48 L452 84" stroke="#00ff9f" stroke-opacity="0.4" stroke-width="1.5" fill="none"/>
-<text x="20" y="31" fill="#00ff9f" font-family="Consolas, monospace" font-size="11" font-weight="700" letter-spacing="3">03 / LANGUAGE AI</text>
-<text x="20" y="84" fill="#00f0ff" font-family="Consolas, monospace" font-size="12" font-weight="700" filter="url(#pn3)">&gt; TRACK::TRANSLATE_AI</text>
-<text x="20" y="125" fill="#f7fbff" font-family="Consolas, monospace" font-size="27" font-weight="800">Translate AI</text>
-<text x="20" y="154" fill="#aab6dc" font-family="Consolas, monospace" font-size="14">AI-assisted multilingual translation.</text>
-<text x="20" y="184" fill="#7f8cb8" font-family="Consolas, monospace" font-size="12">Next.js / TypeScript / Gemini / Genkit</text>
-<text x="20" y="204" fill="#00ff9f" font-family="Consolas, monospace" font-size="12" font-weight="700">[ OPEN_REPO &gt;&gt; ]</text>
-<rect x="480" y="48" width="3" height="168" fill="#00ff9f"><animate attributeName="x" values="480;0;480" dur="5s" repeatCount="indefinite"/></rect>
-<rect x="0" y="0" width="6" height="48" fill="url(#pg3)"/></svg>
+<rect width="480" height="216" rx="22" fill="#ffffff"/>
+<rect x="3" y="3" width="474" height="210" rx="19" fill="#eafff2"/>
+<path d="M0 40 H480" stroke="#3bd6a8" stroke-width="4"/>
+<circle cx="30" cy="40" r="10" fill="#3bd6a8"/>
+<circle cx="56" cy="40" r="10" fill="#38b6ff"/>
+<circle cx="82" cy="40" r="10" fill="#ffc800"/>
+<text x="112" y="47" fill="#1b1b2f" font-family="Trebuchet MS, Arial, sans-serif" font-size="17" font-weight="bold">TRANSLATE AI</text>
+<text x="30" y="112" fill="#1b1b2f" font-family="Trebuchet MS, Arial, sans-serif" font-size="33" font-weight="bold">AI multilingual</text>
+<text x="30" y="152" fill="#1b1b2f" font-family="Trebuchet MS, Arial, sans-serif" font-size="33" font-weight="bold">translation</text>
+<rect x="30" y="172" width="118" height="26" rx="13" fill="#3bd6a8"/><text x="44" y="189" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="14" font-weight="bold">Next.js</text>
+<rect x="156" y="172" width="122" height="26" rx="13" fill="#a855f7"/><text x="170" y="189" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="14" font-weight="bold">Gemini AI</text>
+<rect x="286" y="172" width="96" height="26" rx="13" fill="#38b6ff"/><text x="302" y="189" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="14" font-weight="bold">Genkit</text>
+<path d="M374 31 h60 v54" stroke="#3bd6a8" stroke-width="4" fill="#5fe5b6"/>
+<text x="392" y="72" fill="#ffffff" font-family="Trebuchet MS, Arial, sans-serif" font-size="22" font-weight="bold" filter="url(#sh)">OPEN</text></svg>
