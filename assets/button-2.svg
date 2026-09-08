@@ -3,7 +3,8 @@
 <filter id="n2" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
 <rect width="210" height="48" rx="8" fill="#0a0e22"/>
-<rect x="1" y="1" width="208" height="46" rx="7" fill="none" stroke="url(#b2)" stroke-width="1.5"/>
+<rect x="1" y="1" width="208" height="46" rx="7" fill="none" stroke="url(#b2)" stroke-width="1.5"><animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/></rect>
 <path d="M10 12 H28" stroke="#ff2e97" stroke-width="2" fill="none"/>
 <path d="M10 36 H28" stroke="#ff2e97" stroke-width="2" fill="none"/>
-<text x="20" y="31" fill="#ff2e97" font-family="Consolas, 'Courier New', monospace" font-size="16" font-weight="700" filter="url(#n2)">EMAIL&#160;&gt;&gt;</text></svg>
+<text x="20" y="31" fill="#ff2e97" font-family="Consolas, monospace" font-size="16" font-weight="700" filter="url(#n2)">EMAIL</text>
+<rect x="105" y="16" width="8" height="17" fill="#ff2e97"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect></svg>

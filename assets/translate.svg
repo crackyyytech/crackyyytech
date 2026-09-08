@@ -6,11 +6,11 @@
 <rect x="1" y="1" width="478" height="214" rx="11" fill="none" stroke="#00ff9f" stroke-opacity="0.6" stroke-width="1.5"/>
 <path d="M0 48 H480" stroke="#1c2b5a" stroke-width="1.5" fill="none"/>
 <path d="M420 48 L452 84" stroke="#00ff9f" stroke-opacity="0.4" stroke-width="1.5" fill="none"/>
-<text x="20" y="31" fill="#00ff9f" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" letter-spacing="3">03&#160;/&#160;LANGUAGE&#160;AI</text>
-<text x="20" y="84" fill="#00f0ff" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" filter="url(#pn3)">&gt;&#160;TRACK::TRANSLATE_AI</text>
-<text x="20" y="125" fill="#f7fbff" font-family="Consolas, 'Courier New', monospace" font-size="27" font-weight="800">Translate AI</text>
-<text x="20" y="154" fill="#aab6dc" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="400">AI-assisted multilingual translation.</text>
-<text x="20" y="184" fill="#7f8cb8" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="400">Next.js / TypeScript / Gemini / Genkit</text>
-<text x="20" y="204" fill="#00ff9f" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700">[ OPEN_REPO&#160;&gt;&gt; ]</text>
-<rect x="0" y="0" width="6" height="48" fill="url(#pg3)"/>
-</svg>
+<text x="20" y="31" fill="#00ff9f" font-family="Consolas, monospace" font-size="11" font-weight="700" letter-spacing="3">03 / LANGUAGE AI</text>
+<text x="20" y="84" fill="#00f0ff" font-family="Consolas, monospace" font-size="12" font-weight="700" filter="url(#pn3)">&gt; TRACK::TRANSLATE_AI</text>
+<text x="20" y="125" fill="#f7fbff" font-family="Consolas, monospace" font-size="27" font-weight="800">Translate AI</text>
+<text x="20" y="154" fill="#aab6dc" font-family="Consolas, monospace" font-size="14">AI-assisted multilingual translation.</text>
+<text x="20" y="184" fill="#7f8cb8" font-family="Consolas, monospace" font-size="12">Next.js / TypeScript / Gemini / Genkit</text>
+<text x="20" y="204" fill="#00ff9f" font-family="Consolas, monospace" font-size="12" font-weight="700">[ OPEN_REPO &gt;&gt; ]</text>
+<rect x="480" y="48" width="3" height="168" fill="#00ff9f"><animate attributeName="x" values="480;0;480" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="0" y="0" width="6" height="48" fill="url(#pg3)"/></svg>

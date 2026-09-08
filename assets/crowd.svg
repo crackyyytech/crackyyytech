@@ -6,11 +6,11 @@
 <rect x="1" y="1" width="478" height="214" rx="11" fill="none" stroke="#a855f7" stroke-opacity="0.6" stroke-width="1.5"/>
 <path d="M0 48 H480" stroke="#1c2b5a" stroke-width="1.5" fill="none"/>
 <path d="M420 48 L452 84" stroke="#a855f7" stroke-opacity="0.4" stroke-width="1.5" fill="none"/>
-<text x="20" y="31" fill="#a855f7" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" letter-spacing="3">02&#160;/&#160;COMPUTER&#160;VISION</text>
-<text x="20" y="84" fill="#ff2e97" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" filter="url(#pn2)">&gt;&#160;TRACK::CROWD_MONITORING</text>
-<text x="20" y="125" fill="#f7fbff" font-family="Consolas, 'Courier New', monospace" font-size="27" font-weight="800">Crowd Monitoring</text>
-<text x="20" y="154" fill="#aab6dc" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="400">Detect people. Understand crowd density.</text>
-<text x="20" y="184" fill="#7f8cb8" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="400">Python / OpenCV / YOLO / Flask</text>
-<text x="20" y="204" fill="#a855f7" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700">[ OPEN_REPO&#160;&gt;&gt; ]</text>
-<rect x="0" y="0" width="6" height="48" fill="url(#pg2)"/>
-</svg>
+<text x="20" y="31" fill="#a855f7" font-family="Consolas, monospace" font-size="11" font-weight="700" letter-spacing="3">02 / COMPUTER VISION</text>
+<text x="20" y="84" fill="#ff2e97" font-family="Consolas, monospace" font-size="12" font-weight="700" filter="url(#pn2)">&gt; TRACK::CROWD_MONITORING</text>
+<text x="20" y="125" fill="#f7fbff" font-family="Consolas, monospace" font-size="27" font-weight="800">Crowd Monitoring</text>
+<text x="20" y="154" fill="#aab6dc" font-family="Consolas, monospace" font-size="14">Detect people. Understand crowd density.</text>
+<text x="20" y="184" fill="#7f8cb8" font-family="Consolas, monospace" font-size="12">Python / OpenCV / YOLO / Flask</text>
+<text x="20" y="204" fill="#a855f7" font-family="Consolas, monospace" font-size="12" font-weight="700">[ OPEN_REPO &gt;&gt; ]</text>
+<rect x="480" y="48" width="3" height="168" fill="#a855f7"><animate attributeName="x" values="480;0;480" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="0" y="0" width="6" height="48" fill="url(#pg2)"/></svg>

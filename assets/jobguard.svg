@@ -6,11 +6,11 @@
 <rect x="1" y="1" width="478" height="214" rx="11" fill="none" stroke="#00f0ff" stroke-opacity="0.6" stroke-width="1.5"/>
 <path d="M0 48 H480" stroke="#1c2b5a" stroke-width="1.5" fill="none"/>
 <path d="M420 48 L452 84" stroke="#00f0ff" stroke-opacity="0.4" stroke-width="1.5" fill="none"/>
-<text x="20" y="31" fill="#00f0ff" font-family="Consolas, 'Courier New', monospace" font-size="11" font-weight="700" letter-spacing="3">01&#160;/&#160;MACHINE&#160;LEARNING</text>
-<text x="20" y="84" fill="#00ff9f" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700" filter="url(#pn1)">&gt;&#160;TRACK::JOBGUARD_AI</text>
-<text x="20" y="125" fill="#f7fbff" font-family="Consolas, 'Courier New', monospace" font-size="27" font-weight="800">JobGuard AI</text>
-<text x="20" y="154" fill="#aab6dc" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="400">Flag suspicious job postings with NLP.</text>
-<text x="20" y="184" fill="#7f8cb8" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="400">Python / Flask / scikit-learn / NLP</text>
-<text x="20" y="204" fill="#00f0ff" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700">[ OPEN_REPO&#160;&gt;&gt; ]</text>
-<rect x="0" y="0" width="6" height="48" fill="url(#pg1)"/>
-</svg>
+<text x="20" y="31" fill="#00f0ff" font-family="Consolas, monospace" font-size="11" font-weight="700" letter-spacing="3">01 / MACHINE LEARNING</text>
+<text x="20" y="84" fill="#00ff9f" font-family="Consolas, monospace" font-size="12" font-weight="700" filter="url(#pn1)">&gt; TRACK::JOBGUARD_AI</text>
+<text x="20" y="125" fill="#f7fbff" font-family="Consolas, monospace" font-size="27" font-weight="800">JobGuard AI</text>
+<text x="20" y="154" fill="#aab6dc" font-family="Consolas, monospace" font-size="14">Flag suspicious job postings with NLP.</text>
+<text x="20" y="184" fill="#7f8cb8" font-family="Consolas, monospace" font-size="12">Python / Flask / scikit-learn / NLP</text>
+<text x="20" y="204" fill="#00f0ff" font-family="Consolas, monospace" font-size="12" font-weight="700">[ OPEN_REPO &gt;&gt; ]</text>
+<rect x="480" y="48" width="3" height="168" fill="#00f0ff"><animate attributeName="x" values="480;0;480" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="0" y="0" width="6" height="48" fill="url(#pg1)"/></svg>
