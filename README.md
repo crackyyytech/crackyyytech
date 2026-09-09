@@ -24,6 +24,8 @@ Hi! I'm **Sudalai Manikandan S**, an **Indian software developer and IT professi
 
 My profile is designed for recruiters, fellow developers and clients searching for **software developers in Tamil Nadu**, **Python developers in India** and **AI / ML engineers** working with **computer vision, NLP and REST APIs**.
 
+**Focus keywords:** full-stack developer, front-end and back-end development, REST API design, database design, data cleaning, predictive modeling, object detection, image processing, speech-to-text, text classification, chatbot development, workflow automation, script automation, report generation, business applications.
+
 | Domain | What I Do |
 |--------|-----------|
 | **Software** | Python, React, PHP, VB.NET, REST APIs |
@@ -52,18 +54,18 @@ My profile is designed for recruiters, fellow developers and clients searching f
 <table>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/crackyyytech/fake_job_detect" title="JobGuard AI — fake job detection with machine learning"><img src="assets/jobguard.svg" width="100%" alt="JobGuard AI — fake job detection project using NLP and scikit-learn" /></a>
-<h3 align="center"><a href="https://github.com/crackyyytech/fake_job_detect" title="JobGuard AI repository">JobGuard AI</a></h3>
+<h3 align="center"><a href="https://github.com/crackyyytech/fake_job_detect" title="JobGuard AI repository">JobGuard AI — Fake Job Detection App</a></h3>
 <p align="center">Detects fraudulent job posts using NLP and scikit-learn machine learning models.</p></td>
 <td width="50%" align="center"><a href="https://github.com/crackyyytech/crowd_monitering" title="Crowd Monitoring — people counter with computer vision"><img src="assets/crowd.svg" width="100%" alt="Crowd monitoring project using OpenCV and YOLO object detection" /></a>
-<h3 align="center"><a href="https://github.com/crackyyytech/crowd_monitering" title="Crowd monitoring repository">Crowd Monitoring</a></h3>
+<h3 align="center"><a href="https://github.com/crackyyytech/crowd_monitering" title="Crowd monitoring repository">Crowd Monitoring — People Counter</a></h3>
 <p align="center">Real-time people counting for CCTV footage using OpenCV and YOLO object detection.</p></td>
 </tr>
 <tr>
 <td width="50%" align="center"><a href="https://github.com/crackyyytech/translate-ai" title="Translate AI — Tamil speech-to-text translation"><img src="assets/translate.svg" width="100%" alt="Translate AI — Tamil speech recognition and translation project" /></a>
-<h3 align="center"><a href="https://github.com/crackyyytech/translate-ai" title="Translate AI repository">Translate AI</a></h3>
+<h3 align="center"><a href="https://github.com/crackyyytech/translate-ai" title="Translate AI repository">Translate AI — Tamil Speech-to-Text Translator</a></h3>
 <p align="center">Speech-to-text and Tamil translation workflow built with Python and Flask.</p></td>
 <td width="50%" align="center"><a href="https://github.com/crackyyytech/Python_Internship" title="Python Internship — data analysis and automation projects"><img src="assets/internship.svg" width="100%" alt="Python internship projects — data analysis, PDF reporting, NLTK chatbot, spam classification" /></a>
-<h3 align="center"><a href="https://github.com/crackyyytech/Python_Internship" title="Python Internship repository">Python Internship</a></h3>
+<h3 align="center"><a href="https://github.com/crackyyytech/Python_Internship" title="Python Internship repository">Python Internship — Data Analysis & ML Projects</a></h3>
 <p align="center">Data analysis, weather visualization, PDF reporting, chatbot and spam classification in Python.</p></td>
 </tr>
 </table>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="226" viewBox="0 0 480 226"><defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="226" viewBox="0 0 480 226"><title>Python internship projects - data analysis and machine learning</title><desc>Python internship projects: file analysis, weather visualization, PDF reporting, NLTK chatbot and spam classification using Pandas, Matplotlib, scikit-learn and NLTK.</desc><defs>
 <filter id="sh"><feDropShadow dx="0" dy="5" stdDeviation="0" flood-color="#1b1b2f" flood-opacity="0.25"/></filter>
 </defs>
 <rect width="480" height="226" rx="22" fill="#ffffff"/>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="226" viewBox="0 0 480 226"><defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="226" viewBox="0 0 480 226"><title>Translate AI - Tamil speech-to-text translation project</title><desc>Translate AI converts speech to text and translates Tamil. Python and Flask project by Sudalai Manikandan S with speech recognition and PDF reporting.</desc><defs>
 <filter id="sh"><feDropShadow dx="0" dy="5" stdDeviation="0" flood-color="#1b1b2f" flood-opacity="0.25"/></filter>
 </defs>
 <rect width="480" height="226" rx="22" fill="#ffffff"/>

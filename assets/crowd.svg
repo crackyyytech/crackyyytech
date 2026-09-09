@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="226" viewBox="0 0 480 226"><defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="226" viewBox="0 0 480 226"><title>Crowd monitoring project - OpenCV and YOLO</title><desc>Crowd monitoring people counter for CCTV footage using OpenCV and YOLO object detection. Computer vision project by Sudalai Manikandan S.</desc><defs>
 <filter id="sh"><feDropShadow dx="0" dy="5" stdDeviation="0" flood-color="#1b1b2f" flood-opacity="0.25"/></filter>
 </defs>
 <rect width="480" height="226" rx="22" fill="#ffffff"/>
