@@ -1,6 +1,8 @@
 <a id="top"></a>
 
-![Sudalai Manikandan S — IT Professional. Software Developer, Machine Learning Engineer, Data & Automation, Tamil Nadu, India](assets/hero.svg)
+<h1 align="center">
+  <img src="assets/hero.svg" width="100%" alt="Sudalai Manikandan S — IT Professional. Software Developer, Machine Learning Engineer, Data & Automation, Tamil Nadu, India" />
+</h1>
 
 <p align="center">
   <a href="https://portfolio-crackyyytechs-projects.vercel.app/" title="Visit Sudalai Manikandan's portfolio website"><img src="assets/button-0.svg" width="23%" alt="Portfolio — Sudalai Manikandan S portfolio website" /></a>
@@ -10,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="#about">ABOUT</a> &nbsp;·&nbsp; <a href="#projects">PROJECTS</a> &nbsp;·&nbsp; <a href="#stack">SKILLS</a> &nbsp;·&nbsp; <a href="#experience">EXPERIENCE</a> &nbsp;·&nbsp; <a href="#activity">GITHUB</a> &nbsp;·&nbsp; <a href="#connect">CONTACT</a>
+  <a href="#about">ABOUT</a> &nbsp;·&nbsp; <a href="#services">WHAT I DO</a> &nbsp;·&nbsp; <a href="#projects">PROJECTS</a> &nbsp;·&nbsp; <a href="#stack">SKILLS</a> &nbsp;·&nbsp; <a href="#experience">EXPERIENCE</a> &nbsp;·&nbsp; <a href="#activity">GITHUB</a> &nbsp;·&nbsp; <a href="#faq">FAQ</a> &nbsp;·&nbsp; <a href="#connect">CONTACT</a>
 </p>
 
 ---
@@ -18,7 +20,9 @@
 <a id="about"></a>
 ## ABOUT ME — SUDALAI MANIKANDAN S, IT PROFESSIONAL
 
-Hi! I'm **Sudalai Manikandan S**, an **IT professional** and **software developer** from **Tenkasi, Tamil Nadu, India**. I work across the full IT spectrum — **software development, machine learning, artificial intelligence, data processing, databases and business automation** — as a **Python developer**, **React.js / Node.js / Django full-stack developer**, and **machine learning engineer** building with **OpenCV, YOLO, NLTK and scikit-learn**.
+Hi! I'm **Sudalai Manikandan S**, an **Indian software developer and IT professional** from **Tenkasi, Tamil Nadu, India**, currently pursuing **B.E. Computer Science and Engineering** at **Trichy Engineering College**. I build and automate across the full IT stack — **web development, artificial intelligence, machine learning, data engineering, database management and business automation** — as a **Python developer**, **React.js / Node.js / Django full-stack developer** and **machine learning engineer** using **OpenCV, YOLO, NLTK, scikit-learn and Pandas**.
+
+My profile is designed for recruiters, fellow developers and clients searching for **software developers in Tamil Nadu**, **Python developers in India** and **AI / ML engineers** working with **computer vision, NLP and REST APIs**.
 
 | Domain | What I Do |
 |--------|-----------|
@@ -30,17 +34,37 @@ Hi! I'm **Sudalai Manikandan S**, an **IT professional** and **software develope
 
 ---
 
+<a id="services"></a>
+## WHAT I CAN HELP WITH — IT & AUTOMATION SERVICES
+
+- **Custom software development** — web apps, business tools and internal dashboards with Python, React, Node.js and Django.
+- **AI & machine learning solutions** — computer vision (OpenCV, YOLO), NLP (NLTK), prediction and classification models with scikit-learn.
+- **Data processing & reporting** — Pandas pipelines, MySQL / SQL Server / MongoDB data handling, PDF report generation.
+- **Automation** — scripting and workflow automation to replace repetitive manual work.
+- **API development & integration** — REST APIs, Postman testing, Flask/FastAPI-style back ends.
+- **Deployment** — Git workflows, Linux VPS setup and CI/CD.
+
+---
+
 <a id="projects"></a>
 ## MY PROJECTS — GITHUB PORTFOLIO
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/crackyyytech/fake_job_detect" title="JobGuard AI — fake job detection with machine learning"><img src="assets/jobguard.svg" width="100%" alt="JobGuard AI — fake job detection project using NLP and scikit-learn" /></a></td>
-<td width="50%"><a href="https://github.com/crackyyytech/crowd_monitering" title="Crowd Monitoring — people counter with computer vision"><img src="assets/crowd.svg" width="100%" alt="Crowd monitoring project using OpenCV and YOLO object detection" /></a></td>
+<td width="50%" align="center"><a href="https://github.com/crackyyytech/fake_job_detect" title="JobGuard AI — fake job detection with machine learning"><img src="assets/jobguard.svg" width="100%" alt="JobGuard AI — fake job detection project using NLP and scikit-learn" /></a>
+<h3 align="center"><a href="https://github.com/crackyyytech/fake_job_detect" title="JobGuard AI repository">JobGuard AI</a></h3>
+<p align="center">Detects fraudulent job posts using NLP and scikit-learn machine learning models.</p></td>
+<td width="50%" align="center"><a href="https://github.com/crackyyytech/crowd_monitering" title="Crowd Monitoring — people counter with computer vision"><img src="assets/crowd.svg" width="100%" alt="Crowd monitoring project using OpenCV and YOLO object detection" /></a>
+<h3 align="center"><a href="https://github.com/crackyyytech/crowd_monitering" title="Crowd monitoring repository">Crowd Monitoring</a></h3>
+<p align="center">Real-time people counting for CCTV footage using OpenCV and YOLO object detection.</p></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/crackyyytech/translate-ai" title="Translate AI — Tamil speech-to-text translation"><img src="assets/translate.svg" width="100%" alt="Translate AI — Tamil speech recognition and translation project" /></a></td>
-<td width="50%"><a href="https://github.com/crackyyytech/Python_Internship" title="Python Internship — data analysis and automation projects"><img src="assets/internship.svg" width="100%" alt="Python internship projects — data analysis, PDF reporting, NLTK chatbot, spam classification" /></a></td>
+<td width="50%" align="center"><a href="https://github.com/crackyyytech/translate-ai" title="Translate AI — Tamil speech-to-text translation"><img src="assets/translate.svg" width="100%" alt="Translate AI — Tamil speech recognition and translation project" /></a>
+<h3 align="center"><a href="https://github.com/crackyyytech/translate-ai" title="Translate AI repository">Translate AI</a></h3>
+<p align="center">Speech-to-text and Tamil translation workflow built with Python and Flask.</p></td>
+<td width="50%" align="center"><a href="https://github.com/crackyyytech/Python_Internship" title="Python Internship — data analysis and automation projects"><img src="assets/internship.svg" width="100%" alt="Python internship projects — data analysis, PDF reporting, NLTK chatbot, spam classification" /></a>
+<h3 align="center"><a href="https://github.com/crackyyytech/Python_Internship" title="Python Internship repository">Python Internship</a></h3>
+<p align="center">Data analysis, weather visualization, PDF reporting, chatbot and spam classification in Python.</p></td>
 </tr>
 </table>
 
@@ -52,8 +76,11 @@ Hi! I'm **Sudalai Manikandan S**, an **IT professional** and **software develope
 <details>
 <summary><b>More projects: billing, inventory &amp; language workflows</b></summary>
 
-- **Tea Shop Billing &amp; Inventory App** — Flutter app with invoicing, stock management, sales reports and thermal-printer support.
-- **Business translation workflow** — Python/Flask with speech-to-text, Tamil text normalization, translation APIs and PDF reporting.
+#### Tea Shop Billing &amp; Inventory App
+Flutter application for tea shops with invoicing, stock management, sales reports and thermal-printer support.
+
+#### Business Translation Workflow
+Python/Flask pipeline combining speech-to-text, Tamil text normalization, translation APIs and PDF reporting for business documents.
 
 [Ask me about these](mailto:crackyyy.tech@gmail.com?subject=Project%20discussion)
 
@@ -78,25 +105,23 @@ Hi! I'm **Sudalai Manikandan S**, an **IT professional** and **software develope
 <a id="experience"></a>
 ## WORK EXPERIENCE — SOFTWARE DEVELOPER & PYTHON INTERN
 
-**Software Developer · VISTAWIN SOLUTION** — Tenkasi, Tamil Nadu, India · Feb 2026 – Present
-
+### Software Developer — VISTAWIN SOLUTION (Tenkasi, Tamil Nadu, India · Feb 2026 – Present)
 - Build &amp; maintain business applications with PHP, MySQL, React.js, VB.NET, SQL Server.
 - Python/Flask integrations: speech recognition, Tamil normalization, translation, PDF reporting.
 - Debug application and database defects, test fixes, manage via Git, deploy to Linux VPS.
 
-**Python Developer Intern · TechNest Intern** — Remote · Jul – Aug 2025
-
+### Python Developer Intern — TechNest Intern (Remote · Jul – Aug 2025)
 - Five Python projects: file analysis, weather visualization, PDF reporting, NLTK chatbot, spam classification.
 - Stack: Pandas, Matplotlib, scikit-learn, NLTK, FPDF, REST APIs.
 
 <details>
 <summary><b>Education &amp; certifications</b></summary>
 
-**B.E. Computer Science and Engineering (pursuing) · Trichy Engineering College · 2022–2026**
+#### B.E. Computer Science and Engineering (pursuing) — Trichy Engineering College (2022–2026)
 
-- Career Essentials in Generative AI — Microsoft &amp; LinkedIn Learning · Aug 2024
-- Python Fundamentals for Beginners — Great Learning Academy · Mar 2024
-- Effective Leadership — HP LIFE · Jul 2025
+- **Career Essentials in Generative AI** — Microsoft &amp; LinkedIn Learning · Aug 2024
+- **Python Fundamentals for Beginners** — Great Learning Academy · Mar 2024
+- **Effective Leadership** — HP LIFE · Jul 2025
 
 </details>
 
@@ -112,6 +137,23 @@ Hi! I'm **Sudalai Manikandan S**, an **IT professional** and **software develope
   <a href="https://github.com/crackyyytech?tab=repositories" title="Total GitHub stars"><img src="https://img.shields.io/github/stars/crackyyytech?style=for-the-badge&label=Stars&color=38b6ff" alt="Total GitHub stars received" /></a>
   <a href="https://github.com/crackyyytech?tab=repositories" title="Public repositories"><img src="https://img.shields.io/badge/Repos-crackyyytech-ff8c1a?style=for-the-badge" alt="Repositories on GitHub" /></a>
 </p>
+
+---
+
+<a id="faq"></a>
+## FAQ — ABOUT SUDALAI MANIKANDAN S
+
+**Who is Sudalai Manikandan S?**
+An IT professional and software developer from Tenkasi, Tamil Nadu, India, with experience in software development, machine learning, data processing and automation.
+
+**What technologies does he work with?**
+Python, JavaScript, React, Node.js, Django, Flask, PHP, VB.NET, Flutter, MySQL, SQL Server, MongoDB, OpenCV, YOLO, NLTK and scikit-learn.
+
+**What kinds of projects has he built?**
+Fake job detection (JobGuard AI), crowd monitoring with computer vision, Tamil speech-to-text translation, plus billing, inventory and data-reporting applications.
+
+**Where can I contact him?**
+Email [crackyyy.tech@gmail.com](mailto:crackyyy.tech@gmail.com), connect on [LinkedIn](https://www.linkedin.com/in/crackyyy-tech/), or visit his [portfolio](https://portfolio-crackyyytechs-projects.vercel.app/).
 
 ---
 
