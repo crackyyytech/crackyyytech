@@ -1,12 +1,12 @@
 <a id="top"></a>
 
-![Sudalai Manikandan S — IT + AI + Software, Manga Pop Style](assets/hero.svg)
+![Sudalai Manikandan S — IT Professional. Software Developer, Machine Learning Engineer, Data & Automation, Tamil Nadu, India](assets/hero.svg)
 
 <p align="center">
-  <a href="https://portfolio-crackyyytechs-projects.vercel.app/"><img src="assets/button-0.svg" width="23%" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/crackyyy-tech/"><img src="assets/button-1.svg" width="23%" alt="LinkedIn" /></a>
-  <a href="mailto:crackyyy.tech@gmail.com"><img src="assets/button-2.svg" width="23%" alt="Email" /></a>
-  <a href="https://github.com/crackyyytech?tab=repositories"><img src="assets/button-3.svg" width="23%" alt="Projects" /></a>
+  <a href="https://portfolio-crackyyytechs-projects.vercel.app/" title="Visit Sudalai Manikandan's portfolio website"><img src="assets/button-0.svg" width="23%" alt="Portfolio — Sudalai Manikandan S portfolio website" /></a>
+  <a href="https://www.linkedin.com/in/crackyyy-tech/" title="Connect on LinkedIn"><img src="assets/button-1.svg" width="23%" alt="LinkedIn profile of Sudalai Manikandan S, IT professional" /></a>
+  <a href="mailto:crackyyy.tech@gmail.com" title="Send an email"><img src="assets/button-2.svg" width="23%" alt="Email Sudalai Manikandan S" /></a>
+  <a href="https://github.com/crackyyytech?tab=repositories" title="Browse GitHub repositories"><img src="assets/button-3.svg" width="23%" alt="GitHub projects by Sudalai Manikandan S" /></a>
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 ---
 
 <a id="about"></a>
-## ABOUT ME
+## ABOUT ME — SUDALAI MANIKANDAN S, IT PROFESSIONAL
 
-Hi! I'm **Sudalai Manikandan S**, an **IT professional** from **Tenkasi, Tamil Nadu, India**. I work across the full IT spectrum — **software development, machine learning, data processing, databases and automation**.
+Hi! I'm **Sudalai Manikandan S**, an **IT professional** and **software developer** from **Tenkasi, Tamil Nadu, India**. I work across the full IT spectrum — **software development, machine learning, artificial intelligence, data processing, databases and business automation** — as a **Python developer**, **React.js / Node.js / Django full-stack developer**, and **machine learning engineer** building with **OpenCV, YOLO, NLTK and scikit-learn**.
 
 | Domain | What I Do |
 |--------|-----------|
@@ -31,22 +31,22 @@ Hi! I'm **Sudalai Manikandan S**, an **IT professional** from **Tenkasi, Tamil N
 ---
 
 <a id="projects"></a>
-## MY PROJECTS
+## MY PROJECTS — GITHUB PORTFOLIO
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/crackyyytech/fake_job_detect"><img src="assets/jobguard.svg" width="100%" alt="JobGuard AI" /></a></td>
-<td width="50%"><a href="https://github.com/crackyyytech/crowd_monitering"><img src="assets/crowd.svg" width="100%" alt="Crowd Monitoring" /></a></td>
+<td width="50%"><a href="https://github.com/crackyyytech/fake_job_detect" title="JobGuard AI — fake job detection with machine learning"><img src="assets/jobguard.svg" width="100%" alt="JobGuard AI — fake job detection project using NLP and scikit-learn" /></a></td>
+<td width="50%"><a href="https://github.com/crackyyytech/crowd_monitering" title="Crowd Monitoring — people counter with computer vision"><img src="assets/crowd.svg" width="100%" alt="Crowd monitoring project using OpenCV and YOLO object detection" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/crackyyytech/translate-ai"><img src="assets/translate.svg" width="100%" alt="Translate AI" /></a></td>
-<td width="50%"><a href="https://github.com/crackyyytech/Python_Internship"><img src="assets/internship.svg" width="100%" alt="Python Internship" /></a></td>
+<td width="50%"><a href="https://github.com/crackyyytech/translate-ai" title="Translate AI — Tamil speech-to-text translation"><img src="assets/translate.svg" width="100%" alt="Translate AI — Tamil speech recognition and translation project" /></a></td>
+<td width="50%"><a href="https://github.com/crackyyytech/Python_Internship" title="Python Internship — data analysis and automation projects"><img src="assets/internship.svg" width="100%" alt="Python internship projects — data analysis, PDF reporting, NLTK chatbot, spam classification" /></a></td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-1b1b2f?style=for-the-badge" alt="View all repositories" /></a>
-  <a href="mailto:crackyyy.tech@gmail.com?subject=Project%20discussion"><img src="https://img.shields.io/badge/More%20Projects%20%26%20Billing-ff8c1a?style=for-the-badge" alt="Ask about billing, inventory and language projects" /></a>
+  <a href="https://github.com/crackyyytech?tab=repositories" title="All repositories by Sudalai Manikandan S"><img src="https://img.shields.io/badge/View%20All%20Repositories-1b1b2f?style=for-the-badge" alt="View all GitHub repositories" /></a>
+  <a href="mailto:crackyyy.tech@gmail.com?subject=Project%20discussion" title="Email about billing, inventory or language projects"><img src="https://img.shields.io/badge/More%20Projects%20%26%20Billing-ff8c1a?style=for-the-badge" alt="Ask about billing, inventory and language workflow projects" /></a>
 </p>
 
 <details>
@@ -62,25 +62,25 @@ Hi! I'm **Sudalai Manikandan S**, an **IT professional** from **Tenkasi, Tamil N
 ---
 
 <a id="stack"></a>
-## MY SKILLS
+## MY SKILLS — PYTHON, REACT, NODE.JS, DJANGO, MACHINE LEARNING
 
 <table>
 <tr>
-<td align="center" width="25%"><b>Languages</b><br><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/Python-38b6ff?style=for-the-badge&labelColor=f7f7f7" alt="Python" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/JavaScript-38b6ff?style=for-the-badge&labelColor=f7f7f7" alt="JavaScript" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/PHP-38b6ff?style=for-the-badge&labelColor=f7f7f7" alt="PHP" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/VB.NET-38b6ff?style=for-the-badge&labelColor=f7f7f7" alt="VB.NET" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/SQL-38b6ff?style=for-the-badge&labelColor=f7f7f7" alt="SQL" /></a></td>
-<td align="center" width="25%"><b>Web &amp; Mobile</b><br><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/React-a855f7?style=for-the-badge&labelColor=f7f7f7" alt="React" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/HTML5-a855f7?style=for-the-badge&labelColor=f7f7f7" alt="HTML5" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/CSS3-a855f7?style=for-the-badge&labelColor=f7f7f7" alt="CSS3" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/Django-a855f7?style=for-the-badge&labelColor=f7f7f7" alt="Django" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/Flask-a855f7?style=for-the-badge&labelColor=f7f7f7" alt="Flask" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/Node.js-a855f7?style=for-the-badge&labelColor=f7f7f7" alt="Node.js" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/Flutter-a855f7?style=for-the-badge&labelColor=f7f7f7" alt="Flutter" /></a></td>
-<td align="center" width="25%"><b>AI &amp; Data</b><br><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/Pandas-ff2392?style=for-the-badge&labelColor=f7f7f7" alt="Pandas" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/scikit--learn-ff2392?style=for-the-badge&labelColor=f7f7f7" alt="scikit-learn" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/OpenCV-ff2392?style=for-the-badge&labelColor=f7f7f7" alt="OpenCV" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/YOLO-ff2392?style=for-the-badge&labelColor=f7f7f7" alt="YOLO" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/NLTK-ff2392?style=for-the-badge&labelColor=f7f7f7" alt="NLTK" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/Matplotlib-ff2392?style=for-the-badge&labelColor=f7f7f7" alt="Matplotlib" /></a></td>
-<td align="center" width="25%"><b>Databases &amp; Delivery</b><br><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/MySQL-ff8c1a?style=for-the-badge&labelColor=f7f7f7" alt="MySQL" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/MongoDB-ff8c1a?style=for-the-badge&labelColor=f7f7f7" alt="MongoDB" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/SQL%20Server-ff8c1a?style=for-the-badge&labelColor=f7f7f7" alt="SQL Server" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/Git-ff8c1a?style=for-the-badge&labelColor=f7f7f7" alt="Git" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/GitHub-ff8c1a?style=for-the-badge&labelColor=f7f7f7" alt="GitHub" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/Postman-ff8c1a?style=for-the-badge&labelColor=f7f7f7" alt="Postman" /></a><br><a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/Linux%20VPS-ff8c1a?style=for-the-badge&labelColor=f7f7f7" alt="Linux VPS" /></a></td>
+<td align="center" width="25%"><b>Languages</b><br><br><a href="https://github.com/crackyyytech?tab=repositories" title="Python projects"><img src="https://img.shields.io/badge/Python-38b6ff?style=for-the-badge&labelColor=f7f7f7" alt="Python" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="JavaScript projects"><img src="https://img.shields.io/badge/JavaScript-38b6ff?style=for-the-badge&labelColor=f7f7f7" alt="JavaScript" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="PHP projects"><img src="https://img.shields.io/badge/PHP-38b6ff?style=for-the-badge&labelColor=f7f7f7" alt="PHP" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="VB.NET projects"><img src="https://img.shields.io/badge/VB.NET-38b6ff?style=for-the-badge&labelColor=f7f7f7" alt="VB.NET" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="SQL projects"><img src="https://img.shields.io/badge/SQL-38b6ff?style=for-the-badge&labelColor=f7f7f7" alt="SQL" /></a></td>
+<td align="center" width="25%"><b>Web &amp; Mobile</b><br><br><a href="https://github.com/crackyyytech?tab=repositories" title="React projects"><img src="https://img.shields.io/badge/React-a855f7?style=for-the-badge&labelColor=f7f7f7" alt="React" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="HTML5 projects"><img src="https://img.shields.io/badge/HTML5-a855f7?style=for-the-badge&labelColor=f7f7f7" alt="HTML5" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="CSS3 projects"><img src="https://img.shields.io/badge/CSS3-a855f7?style=for-the-badge&labelColor=f7f7f7" alt="CSS3" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="Django projects"><img src="https://img.shields.io/badge/Django-a855f7?style=for-the-badge&labelColor=f7f7f7" alt="Django" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="Flask projects"><img src="https://img.shields.io/badge/Flask-a855f7?style=for-the-badge&labelColor=f7f7f7" alt="Flask" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="Node.js projects"><img src="https://img.shields.io/badge/Node.js-a855f7?style=for-the-badge&labelColor=f7f7f7" alt="Node.js" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="Flutter projects"><img src="https://img.shields.io/badge/Flutter-a855f7?style=for-the-badge&labelColor=f7f7f7" alt="Flutter" /></a></td>
+<td align="center" width="25%"><b>AI &amp; Data</b><br><br><a href="https://github.com/crackyyytech?tab=repositories" title="Pandas data projects"><img src="https://img.shields.io/badge/Pandas-ff2392?style=for-the-badge&labelColor=f7f7f7" alt="Pandas" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="scikit-learn machine learning projects"><img src="https://img.shields.io/badge/scikit--learn-ff2392?style=for-the-badge&labelColor=f7f7f7" alt="scikit-learn" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="OpenCV computer vision projects"><img src="https://img.shields.io/badge/OpenCV-ff2392?style=for-the-badge&labelColor=f7f7f7" alt="OpenCV" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="YOLO object detection projects"><img src="https://img.shields.io/badge/YOLO-ff2392?style=for-the-badge&labelColor=f7f7f7" alt="YOLO" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="NLTK NLP projects"><img src="https://img.shields.io/badge/NLTK-ff2392?style=for-the-badge&labelColor=f7f7f7" alt="NLTK" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="Matplotlib data visualization projects"><img src="https://img.shields.io/badge/Matplotlib-ff2392?style=for-the-badge&labelColor=f7f7f7" alt="Matplotlib" /></a></td>
+<td align="center" width="25%"><b>Databases &amp; Delivery</b><br><br><a href="https://github.com/crackyyytech?tab=repositories" title="MySQL database projects"><img src="https://img.shields.io/badge/MySQL-ff8c1a?style=for-the-badge&labelColor=f7f7f7" alt="MySQL" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="MongoDB database projects"><img src="https://img.shields.io/badge/MongoDB-ff8c1a?style=for-the-badge&labelColor=f7f7f7" alt="MongoDB" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="SQL Server projects"><img src="https://img.shields.io/badge/SQL%20Server-ff8c1a?style=for-the-badge&labelColor=f7f7f7" alt="SQL Server" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="Git version control"><img src="https://img.shields.io/badge/Git-ff8c1a?style=for-the-badge&labelColor=f7f7f7" alt="Git" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="GitHub workflow"><img src="https://img.shields.io/badge/GitHub-ff8c1a?style=for-the-badge&labelColor=f7f7f7" alt="GitHub" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="Postman API testing"><img src="https://img.shields.io/badge/Postman-ff8c1a?style=for-the-badge&labelColor=f7f7f7" alt="Postman" /></a><br><a href="https://github.com/crackyyytech?tab=repositories" title="Linux VPS deployment"><img src="https://img.shields.io/badge/Linux%20VPS-ff8c1a?style=for-the-badge&labelColor=f7f7f7" alt="Linux VPS" /></a></td>
 </tr>
 </table>
 
 ---
 
 <a id="experience"></a>
-## WORK EXPERIENCE
+## WORK EXPERIENCE — SOFTWARE DEVELOPER & PYTHON INTERN
 
-**Software Developer · VISTAWIN SOLUTION** — Tenkasi · Feb 2026 – Present
+**Software Developer · VISTAWIN SOLUTION** — Tenkasi, Tamil Nadu, India · Feb 2026 – Present
 
-- Build &amp; maintain business apps with PHP, MySQL, React.js, VB.NET, SQL Server.
+- Build &amp; maintain business applications with PHP, MySQL, React.js, VB.NET, SQL Server.
 - Python/Flask integrations: speech recognition, Tamil normalization, translation, PDF reporting.
 - Debug application and database defects, test fixes, manage via Git, deploy to Linux VPS.
 
@@ -103,20 +103,20 @@ Hi! I'm **Sudalai Manikandan S**, an **IT professional** from **Tenkasi, Tamil N
 ---
 
 <a id="activity"></a>
-## GITHUB SNAPSHOT
+## GITHUB SNAPSHOT — ACTIVITY & REPOSITORIES
 
-[![GitHub snapshot](assets/activity.svg)](https://github.com/crackyyytech?tab=repositories)
+[![GitHub snapshot — Sudalai Manikandan S repositories and contribution activity](assets/activity.svg)](https://github.com/crackyyytech?tab=repositories)
 
 <p align="center">
-  <a href="https://github.com/crackyyytech/followers"><img src="https://img.shields.io/github/followers/crackyyytech?style=for-the-badge&label=Followers&color=ff2392" alt="Followers" /></a>
-  <a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/github/stars/crackyyytech?style=for-the-badge&label=Stars&color=38b6ff" alt="Total stars" /></a>
-  <a href="https://github.com/crackyyytech?tab=repositories"><img src="https://img.shields.io/badge/Repos-crackyyytech-ff8c1a?style=for-the-badge" alt="Repositories" /></a>
+  <a href="https://github.com/crackyyytech/followers" title="Followers on GitHub"><img src="https://img.shields.io/github/followers/crackyyytech?style=for-the-badge&label=Followers&color=ff2392" alt="GitHub followers of Sudalai Manikandan S" /></a>
+  <a href="https://github.com/crackyyytech?tab=repositories" title="Total GitHub stars"><img src="https://img.shields.io/github/stars/crackyyytech?style=for-the-badge&label=Stars&color=38b6ff" alt="Total GitHub stars received" /></a>
+  <a href="https://github.com/crackyyytech?tab=repositories" title="Public repositories"><img src="https://img.shields.io/badge/Repos-crackyyytech-ff8c1a?style=for-the-badge" alt="Repositories on GitHub" /></a>
 </p>
 
 ---
 
 <a id="connect"></a>
-## LET'S CONNECT
+## CONTACT — EMAIL, LINKEDIN & PORTFOLIO
 
 Have an IT, AI, software or automation project idea? Send the problem, expected outcome and timeline.
 
