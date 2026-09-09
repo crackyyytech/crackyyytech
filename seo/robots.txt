@@ -1,0 +1,21 @@
+# robots.txt for the Vercel portfolio (place in public/ or Next.js root)
+User-agent: *
+Allow: /
+
+# Allow search engines and AI crawlers that build search indexes
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+Sitemap: https://YOUR_DEPLOYED_URL/sitemap.xml

@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="#about">ABOUT</a> &nbsp;·&nbsp; <a href="#services">WHAT I DO</a> &nbsp;·&nbsp; <a href="#projects">PROJECTS</a> &nbsp;·&nbsp; <a href="#stack">SKILLS</a> &nbsp;·&nbsp; <a href="#experience">EXPERIENCE</a> &nbsp;·&nbsp; <a href="#activity">GITHUB</a> &nbsp;·&nbsp; <a href="#faq">FAQ</a> &nbsp;·&nbsp; <a href="#connect">CONTACT</a>
+  <a href="#about">ABOUT</a> &nbsp;·&nbsp; <a href="#facts">FACTS</a> &nbsp;·&nbsp; <a href="#services">WHAT I DO</a> &nbsp;·&nbsp; <a href="#projects">PROJECTS</a> &nbsp;·&nbsp; <a href="#stack">SKILLS</a> &nbsp;·&nbsp; <a href="#experience">EXPERIENCE</a> &nbsp;·&nbsp; <a href="#activity">GITHUB</a> &nbsp;·&nbsp; <a href="#faq">FAQ</a> &nbsp;·&nbsp; <a href="#connect">CONTACT</a>
 </p>
 
 ---
@@ -33,6 +33,24 @@ My profile is designed for recruiters, fellow developers and clients searching f
 | **Data & DB** | MySQL, SQL Server, MongoDB, Pandas |
 | **Web** | Django, Flask, Node.js, Flutter, Next.js |
 | **Ops** | Git, Linux VPS, Postman, CI/CD |
+
+---
+
+## QUICK FACTS — IDENTITY & LOCATION
+
+| Field | Value |
+|---|---|
+| **Name** | Sudalai Manikandan S |
+| **Profile** | IT Professional — Software Developer, Machine Learning Engineer, Data & Automation |
+| **Location** | Tenkasi, Tirunelveli district, Tamil Nadu, India |
+| **Education** | B.E. Computer Science and Engineering (pursuing), Trichy Engineering College, 2022–2026 |
+| **Primary stack** | Python, JavaScript, React, Node.js, Django, SQL |
+| **Email** | crackyyy.tech@gmail.com |
+| **GitHub** | github.com/crackyyytech |
+| **Portfolio** | portfolio-crackyyytechs-projects.vercel.app |
+| **LinkedIn** | linkedin.com/in/crackyyy-tech |
+
+<a id="facts"></a>
 
 ---
 
@@ -153,6 +171,12 @@ Python, JavaScript, React, Node.js, Django, Flask, PHP, VB.NET, Flutter, MySQL, 
 
 **What kinds of projects has he built?**
 Fake job detection (JobGuard AI), crowd monitoring with computer vision, Tamil speech-to-text translation, plus billing, inventory and data-reporting applications.
+
+**What is his education?**
+B.E. Computer Science and Engineering at Trichy Engineering College, Tamil Nadu, India (2022–2026), with certifications in Generative AI, Python fundamentals and leadership.
+
+**Where has he worked?**
+Software Developer at VISTAWIN SOLUTION, Tenkasi, Tamil Nadu (Feb 2026 – Present), and Python Developer Intern at TechNest Intern (Jul – Aug 2025).
 
 **Where can I contact him?**
 Email [crackyyy.tech@gmail.com](mailto:crackyyy.tech@gmail.com), connect on [LinkedIn](https://www.linkedin.com/in/crackyyy-tech/), or visit his [portfolio](https://portfolio-crackyyytechs-projects.vercel.app/).

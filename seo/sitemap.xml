@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://YOUR_DEPLOYED_URL/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://github.com/crackyyytech/crackyyytech/raw/main/seo/social-preview.png</image:loc>
+      <image:title>Sudalai Manikandan S — IT Professional, Software Developer, AI/ML Engineer, Data &amp; Automation</image:title>
+    </image:image>
+  </url>
+</urlset>
