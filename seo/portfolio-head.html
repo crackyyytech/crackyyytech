@@ -1,65 +1,89 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-IN">
 <head>
   <!-- ============================================================
-       MASTER SEO PACK — copy the tags below into your Vercel
-       portfolio <head> (Next.js app/layout.tsx metadata, or
-       index.html based on your framework).
-       Replace YOUR_DEPLOYED_URL with the real HTTPS domain.
+       MASTER SEO PACK — copy the tags below into the deployed
+       portfolio <head> (Next.js app/layout.tsx metadata, or a
+       plain index.html). Every URL below already points at the
+       live canonical domain.
+       Canonical: https://portfolio-crackyyytechs-projects.vercel.app/
+       If the custom domain crackyyy.tech goes live, replace
+       https://portfolio-crackyyytechs-projects.vercel.app/ with it
+       and add a 301 redirect from the Vercel URL.
        ============================================================ -->
 
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
   <!-- Primary Meta Tags -->
-  <title>Sudalai Manikandan S — IT Professional | Software Developer, AI/ML Engineer, Data & Automation (Tamil Nadu, India)</title>
-  <meta name="title" content="Sudalai Manikandan S — IT Professional | Software Developer, AI/ML Engineer, Data & Automation" />
-  <meta name="description" content="Sudalai Manikandan S — Indian software developer and IT professional from Tenkasi, Tamil Nadu. Python, React, Node.js, Django, MySQL, machine learning (OpenCV, YOLO, NLTK, scikit-learn), REST APIs and automation. B.E. CSE, Trichy Engineering College." />
+  <title>Sudalai Manikandan S — Founder of CRACKYYY.TECH | Software Developer, AI/ML Engineer, Data &amp; Automation (Tamil Nadu, India)</title>
+  <meta name="title" content="Sudalai Manikandan S — Founder of CRACKYYY.TECH | Software Developer, AI/ML Engineer, Data &amp; Automation" />
+  <meta name="description" content="Sudalai Manikandan S — Indian software developer, founder of CRACKYYY.TECH, from Tenkasi, Tamil Nadu. Python, React, Node.js, Django, MySQL, machine learning (OpenCV, YOLO, NLTK, scikit-learn), REST APIs and automation. B.E. CSE, Trichy Engineering College." />
 
   <!-- Canonical + robots -->
-  <link rel="canonical" href="https://YOUR_DEPLOYED_URL/" />
+  <link rel="canonical" href="https://portfolio-crackyyytechs-projects.vercel.app/" />
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+  <meta name="googlebot" content="index, follow" />
+
+  <!-- Internationalisation (hreflang) -->
+  <link rel="alternate" hreflang="en-in" href="https://portfolio-crackyyytechs-projects.vercel.app/" />
+  <link rel="alternate" hreflang="ta-in" href="https://portfolio-crackyyytechs-projects.vercel.app/" />
+  <link rel="alternate" hreflang="x-default" href="https://portfolio-crackyyytechs-projects.vercel.app/" />
 
   <!-- Geo / location (local SEO) -->
   <meta name="geo.region" content="IN-TN" />
   <meta name="geo.placename" content="Tenkasi, Tamil Nadu, India" />
   <meta name="ICBM" content="8.959, 77.315" />
 
-  <!-- Author / theme-color -->
-  <meta name="author" content="Sudalai Manikandan S" />
-  <meta name="keywords" content="Sudalai Manikandan, software developer India, Python developer, React developer, Node.js, Django, machine learning engineer, computer vision, OpenCV, YOLO, NLP, data engineer, Tenkasi, Tamil Nadu, IT professional, full stack developer" />
+  <!-- Author / theme / icons -->
+  <meta name="author" content="Sudalai Manikandan S — Founder of CRACKYYY.TECH" />
+  <meta name="keywords" content="Sudalai Manikandan, crackyyy.tech, CRACKYYY.TECH founder, software developer India, Python developer, React developer, Node.js, Django, machine learning engineer, computer vision, OpenCV, YOLO, NLP, data engineer, Tenkasi, Tamil Nadu, IT professional, full stack developer" />
   <meta name="theme-color" content="#ff2392" />
+  <link rel="manifest" href="/manifest.webmanifest" />
+  <link rel="icon" href="/favicon.ico" sizes="any" />
+  <link rel="apple-touch-icon" href="/seo/social-preview.png" />
+  <meta name="msapplication-config" content="/browserconfig.xml" />
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="profile" />
-  <meta property="og:url" content="https://YOUR_DEPLOYED_URL/" />
-  <meta property="og:title" content="Sudalai Manikandan S — Software Developer, AI/ML Engineer & Data Automation" />
-  <meta property="og:description" content="IT professional from Tenkasi, Tamil Nadu. Python, React, Node.js, Django, machine learning with OpenCV/YOLO/NLTK/scikit-learn, REST APIs, databases and automation." />
+  <meta property="profile:first_name" content="Sudalai" />
+  <meta property="profile:last_name" content="Manikandan" />
+  <meta property="og:url" content="https://portfolio-crackyyytechs-projects.vercel.app/" />
+  <meta property="og:title" content="Sudalai Manikandan S — Founder of CRACKYYY.TECH | Software Developer, AI/ML Engineer &amp; Data Automation" />
+  <meta property="og:description" content="Founder of CRACKYYY.TECH from Tenkasi, Tamil Nadu. Python, React, Node.js, Django, machine learning with OpenCV/YOLO/NLTK/scikit-learn, REST APIs, databases and automation." />
   <meta property="og:image" content="https://github.com/crackyyytech/crackyyytech/raw/main/seo/social-preview.png" />
-  <meta property="og:image:alt" content="Sudalai Manikandan S — IT Professional, Software Developer, AI/ML Engineer, Data & Automation" />
+  <meta property="og:image:alt" content="Sudalai Manikandan S — Founder of CRACKYYY.TECH, IT Professional, Software Developer, AI/ML Engineer, Data &amp; Automation" />
   <meta property="og:image:width" content="1280" />
   <meta property="og:image:height" content="640" />
-  <meta property="og:site_name" content="Sudalai Manikandan S — Portfolio" />
+  <meta property="og:site_name" content="Sudalai Manikandan S — CRACKYYY.TECH Portfolio" />
   <meta property="og:locale" content="en_IN" />
+  <meta property="og:locale:alternate" content="ta_IN" />
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Sudalai Manikandan S — Software Developer, AI/ML Engineer & Data Automation" />
-  <meta name="twitter:description" content="IT professional from Tenkasi, Tamil Nadu, India. Python, React, Django, Node.js, machine learning, computer vision, SQL and automation." />
+  <meta name="twitter:title" content="Sudalai Manikandan S — Founder of CRACKYYY.TECH | Software Developer, AI/ML Engineer" />
+  <meta name="twitter:description" content="Founder of CRACKYYY.TECH from Tenkasi, Tamil Nadu, India. Python, React, Django, Node.js, machine learning, computer vision, SQL and automation." />
   <meta name="twitter:image" content="https://github.com/crackyyytech/crackyyytech/raw/main/seo/social-preview.png" />
+  <meta name="twitter:image:alt" content="Sudalai Manikandan S — Founder of CRACKYYY.TECH" />
 
   <!-- ============================================================
        STRUCTURED DATA (JSON-LD)
        ============================================================ -->
 
-  <!-- 1. Person schema — identity, sameAs (also feeds Knowledge Graph) -->
+  <!-- 1. Person schema — founder identity + sameAs (feeds Knowledge Graph) -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Person",
-    "@id": "https://YOUR_DEPLOYED_URL/#person",
+    "@id": "https://portfolio-crackyyytechs-projects.vercel.app/#person",
     "name": "Sudalai Manikandan S",
     "alternateName": "crackyyytech",
-    "url": "https://YOUR_DEPLOYED_URL/",
+    "url": "https://portfolio-crackyyytechs-projects.vercel.app/",
     "image": "https://github.com/crackyyytech/crackyyytech/raw/main/seo/social-preview.png",
-    "jobTitle": ["IT Professional", "Software Developer", "Machine Learning Engineer"],
+    "jobTitle": ["Founder", "IT Professional", "Software Developer", "Machine Learning Engineer"],
+    "description": "Sudalai Manikandan S is an Indian software developer, IT professional and AI/ML engineer from Tenkasi, Tamil Nadu, and the founder and owner of CRACKYYY.TECH.",
+    "worksFor": { "@id": "https://portfolio-crackyyytechs-projects.vercel.app/#organization" },
+    "founderOf": { "@id": "https://portfolio-crackyyytechs-projects.vercel.app/#organization" },
     "hasOccupation": {
       "@type": "Occupation",
       "name": "Software Developer",
@@ -67,6 +91,7 @@
       "occupationLocation": { "@type": "Place", "address": { "@type": "PostalAddress", "addressLocality": "Tenkasi", "addressRegion": "Tamil Nadu", "addressCountry": "IN" } }
     },
     "alumniOf": { "@type": "CollegeOrUniversity", "name": "Trichy Engineering College", "address": { "@type": "PostalAddress", "addressLocality": "Trichy", "addressRegion": "Tamil Nadu", "addressCountry": "IN" } },
+    "knowsLanguage": [ { "@type": "Language", "name": "English" }, { "@type": "Language", "name": "Tamil" } ],
     "knowsAbout": [
       "Python", "JavaScript", "React", "Node.js", "Django", "Flask", "PHP", "VB.NET",
       "Flutter", "MySQL", "SQL Server", "MongoDB", "OpenCV", "YOLO", "NLTK",
@@ -74,11 +99,13 @@
     ],
     "email": "mailto:crackyyy.tech@gmail.com",
     "nationality": { "@type": "Country", "name": "India" },
+    "address": { "@type": "PostalAddress", "addressLocality": "Tenkasi", "addressRegion": "Tamil Nadu", "addressCountry": "IN" },
     "homeLocation": {
       "@type": "Place",
       "name": "Tenkasi, Tamil Nadu, India",
       "address": { "@type": "PostalAddress", "addressLocality": "Tenkasi", "addressRegion": "Tamil Nadu", "addressCountry": "IN" }
     },
+    "award": ["Career Essentials in Generative AI — Microsoft & LinkedIn Learning (2024)", "Effective Leadership — HP LIFE (2025)"],
     "sameAs": [
       "https://github.com/crackyyytech",
       "https://www.linkedin.com/in/crackyyy-tech/",
@@ -87,30 +114,113 @@
   }
   </script>
 
-  <!-- 2. WebSite schema -->
+  <!-- 2. Organization schema — CRACKYYY.TECH, founded by the Person -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://portfolio-crackyyytechs-projects.vercel.app/#organization",
+    "name": "CRACKYYY.TECH",
+    "alternateName": "Crackyyy Tech",
+    "url": "https://portfolio-crackyyytechs-projects.vercel.app/",
+    "logo": "https://github.com/crackyyytech/crackyyytech/raw/main/seo/social-preview.png",
+    "image": "https://github.com/crackyyytech/crackyyytech/raw/main/seo/social-preview.png",
+    "description": "CRACKYYY.TECH is the software development, artificial intelligence, data and automation brand founded by Sudalai Manikandan S in Tenkasi, Tamil Nadu, India.",
+    "slogan": "Software, AI and automation built to work.",
+    "founder": { "@id": "https://portfolio-crackyyytechs-projects.vercel.app/#person" },
+    "foundingDate": "2026",
+    "foundingLocation": { "@type": "Place", "name": "Tenkasi, Tamil Nadu, India" },
+    "email": "mailto:crackyyy.tech@gmail.com",
+    "address": { "@type": "PostalAddress", "addressLocality": "Tenkasi", "addressRegion": "Tamil Nadu", "addressCountry": "IN" },
+    "areaServed": [ { "@type": "Country", "name": "India" }, { "@type": "Place", "name": "Worldwide (remote)" } ],
+    "knowsAbout": ["Software development", "Artificial intelligence", "Machine learning", "Data engineering", "Web development", "Business automation", "REST APIs", "Computer vision", "Natural language processing"],
+    "sameAs": [
+      "https://github.com/crackyyytech",
+      "https://www.linkedin.com/in/crackyyy-tech/"
+    ]
+  }
+  </script>
+
+  <!-- 3. ProfessionalService + OfferCatalog — the offered services -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfessionalService",
+    "@id": "https://portfolio-crackyyytechs-projects.vercel.app/#service",
+    "name": "CRACKYYY.TECH — Software, AI/ML, Data & Automation Services",
+    "url": "https://portfolio-crackyyytechs-projects.vercel.app/",
+    "image": "https://github.com/crackyyytech/crackyyytech/raw/main/seo/social-preview.png",
+    "founder": { "@id": "https://portfolio-crackyyytechs-projects.vercel.app/#person" },
+    "provider": { "@id": "https://portfolio-crackyyytechs-projects.vercel.app/#organization" },
+    "areaServed": "Worldwide (remote)",
+    "address": { "@type": "PostalAddress", "addressLocality": "Tenkasi", "addressRegion": "Tamil Nadu", "addressCountry": "IN" },
+    "email": "mailto:crackyyy.tech@gmail.com",
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "IT & Automation services",
+      "itemListElement": [
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Custom software development", "description": "Web apps, business tools and internal dashboards with Python, React, Node.js and Django." } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "AI & machine learning solutions", "description": "Computer vision (OpenCV, YOLO), NLP (NLTK), prediction and classification models with scikit-learn." } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Data processing & reporting", "description": "Pandas pipelines, MySQL / SQL Server / MongoDB data handling and PDF report generation." } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Automation", "description": "Scripting and workflow automation to replace repetitive manual work." } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "API development & integration", "description": "REST APIs, Postman testing and Flask/FastAPI-style back ends." } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Deployment", "description": "Git workflows, Linux VPS setup and CI/CD." } }
+      ]
+    }
+  }
+  </script>
+
+  <!-- 4. WebSite schema (with SearchAction) -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "@id": "https://YOUR_DEPLOYED_URL/#website",
-    "url": "https://YOUR_DEPLOYED_URL/",
-    "name": "Sudalai Manikandan S — Portfolio",
-    "description": "Portfolio of Sudalai Manikandan S — software development, AI/ML, data and automation services.",
+    "@id": "https://portfolio-crackyyytechs-projects.vercel.app/#website",
+    "url": "https://portfolio-crackyyytechs-projects.vercel.app/",
+    "name": "Sudalai Manikandan S — CRACKYYY.TECH Portfolio",
+    "description": "Portfolio of Sudalai Manikandan S, founder of CRACKYYY.TECH — software development, AI/ML, data and automation services.",
     "inLanguage": "en-IN",
-    "publisher": { "@id": "https://YOUR_DEPLOYED_URL/#person" }
+    "publisher": { "@id": "https://portfolio-crackyyytechs-projects.vercel.app/#person" },
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": { "@type": "EntryPoint", "urlTemplate": "https://portfolio-crackyyytechs-projects.vercel.app/?q={search_term_string}" },
+      "query-input": "required name=search_term_string"
+    }
   }
   </script>
 
-  <!-- 3. FAQPage schema — must match the FAQ on the visible page or GitHub profile -->
+  <!-- 5. ProfilePage schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfilePage",
+    "@id": "https://portfolio-crackyyytechs-projects.vercel.app/#profilepage",
+    "url": "https://portfolio-crackyyytechs-projects.vercel.app/",
+    "name": "Sudalai Manikandan S — Founder of CRACKYYY.TECH",
+    "dateModified": "2026-10-10",
+    "inLanguage": "en-IN",
+    "mainEntity": { "@id": "https://portfolio-crackyyytechs-projects.vercel.app/#person" },
+    "about": { "@id": "https://portfolio-crackyyytechs-projects.vercel.app/#organization" },
+    "isPartOf": { "@id": "https://portfolio-crackyyytechs-projects.vercel.app/#website" }
+  }
+  </script>
+
+  <!-- 6. FAQPage schema — must match the visible FAQ on the page / GitHub profile -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "FAQPage",
+    "@id": "https://portfolio-crackyyytechs-projects.vercel.app/#faq",
     "mainEntity": [
       {
         "@type": "Question",
+        "name": "Who is the founder of CRACKYYY.TECH?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Sudalai Manikandan S is the founder and owner of CRACKYYY.TECH, a software development, AI/ML, data and automation brand based in Tenkasi, Tamil Nadu, India." }
+      },
+      {
+        "@type": "Question",
         "name": "Who is Sudalai Manikandan S?",
-        "acceptedAnswer": { "@type": "Answer", "text": "An IT professional and software developer from Tenkasi, Tamil Nadu, India, with experience in software development, machine learning, data processing and automation." }
+        "acceptedAnswer": { "@type": "Answer", "text": "An IT professional, software developer and the founder of CRACKYYY.TECH from Tenkasi, Tamil Nadu, India, with experience in software development, machine learning, data processing and automation." }
       },
       {
         "@type": "Question",
@@ -130,7 +240,7 @@
       {
         "@type": "Question",
         "name": "Where can I contact Sudalai Manikandan?",
-        "acceptedAnswer": { "@type": "Answer", "text": "By email at crackyyy.tech@gmail.com, on LinkedIn at linkedin.com/in/crackyyy-tech, or via his portfolio at portfolio-crackyyytechs-projects.vercel.app." }
+        "acceptedAnswer": { "@type": "Answer", "text": "By email at crackyyy.tech@gmail.com, on LinkedIn at linkedin.com/in/crackyyy-tech, or via the CRACKYYY.TECH portfolio at portfolio-crackyyytechs-projects.vercel.app." }
       },
       {
         "@type": "Question",
@@ -141,14 +251,14 @@
   }
   </script>
 
-  <!-- 4. BreadcrumbList schema -->
+  <!-- 7. BreadcrumbList schema -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://YOUR_DEPLOYED_URL/" },
-      { "@type": "ListItem", "position": 2, "name": "Portfolio of Sudalai Manikandan S", "item": "https://YOUR_DEPLOYED_URL/" }
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://portfolio-crackyyytechs-projects.vercel.app/" },
+      { "@type": "ListItem", "position": 2, "name": "Sudalai Manikandan S — Founder of CRACKYYY.TECH", "item": "https://portfolio-crackyyytechs-projects.vercel.app/" }
     ]
   }
   </script>

@@ -1,0 +1,28 @@
+{
+  "name": "Sudalai Manikandan S — CRACKYYY.TECH Portfolio",
+  "short_name": "crackyyy.tech",
+  "description": "Portfolio of Sudalai Manikandan S, founder of CRACKYYY.TECH — software development, AI/ML, data engineering and automation from Tenkasi, Tamil Nadu, India.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#ff2392",
+  "lang": "en-IN",
+  "dir": "ltr",
+  "categories": ["portfolio", "business", "developer"],
+  "icons": [
+    {
+      "src": "/seo/social-preview.png",
+      "sizes": "1280x640",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/seo/social-preview.png",
+      "sizes": "1280x640",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

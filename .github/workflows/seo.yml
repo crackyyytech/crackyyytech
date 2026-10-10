@@ -1,0 +1,24 @@
+name: Validate SEO files
+on:
+  push:
+    paths:
+      - 'seo/**'
+      - 'assets/**'
+      - 'README.md'
+      - 'scripts/seo_validate.py'
+      - '.github/workflows/seo.yml'
+  pull_request:
+    paths:
+      - 'seo/**'
+      - 'scripts/seo_validate.py'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+      - name: Validate SEO files
+        run: python3 scripts/seo_validate.py

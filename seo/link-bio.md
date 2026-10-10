@@ -5,6 +5,8 @@ Search engines rank what others link to. This profile README is already the hub;
 ## 1. Consistency (critical)
 Everywhere you are indexed, use the SAME:
 - Name: `Sudalai Manikandan S`
+- Company: `CRACKYYY.TECH`
+- Title: `Founder & Owner, CRACKYYY.TECH`
 - Location: `Tenkasi, Tamil Nadu, India`
 - Role line: `IT Professional — Software Developer, AI/ML Engineer & Data Automation`
 
@@ -13,6 +15,8 @@ Everywhere you are indexed, use the SAME:
 | Where | Exact link to add |
 |---|---|
 | LinkedIn About section | `https://github.com/crackyyytech` and `https://portfolio-crackyyytechs-projects.vercel.app` |
+| LinkedIn company page (create "CRACKYYY.TECH", list Sudalai Manikandan S as founder) | `https://github.com/crackyyytech` + portfolio URL |
+| Crunchbase / startup directories (add CRACKYYY.TECH, founder Sudalai Manikandan S) | portfolio URL |
 | Portfolio footer | `https://github.com/crackyyytech` anchor text "GitHub — crackyyytech" |
 | Résumé (PDF, top) | `https://github.com/crackyyytech` |
 | GitHub pin URL (already done via pins) | — |
@@ -24,6 +28,7 @@ Everywhere you are indexed, use the SAME:
 - GitHub profile → portfolio, LinkedIn, email (already done in README).
 - Portfolio → GitHub, LinkedIn (add footer links).
 - LinkedIn → GitHub + portfolio (in About and Experience).
+- CRACKYYY.TECH company page → founder profile + portfolio + GitHub.
 
 ## 4. Submit to indexes (one-time)
 - Google Search Console: verify `https://github.com/crackyyytech` (via URL inspection) AND the portfolio domain, then request indexing of `/`.
@@ -35,3 +40,5 @@ Search `Sudalai Manikandan S Tenkasi` and `crackyyytech` in Google/Bing/DuckDuck
 
 ## 6. AI search engines (ChatGPT, Perplexity, Gemini)
 These now cite GitHub profiles. The FAQ + Quick Facts blocks in README.md are written to be quoted verbatim. Keep facts matching the portfolio content — AI output consistency boosts referrals across all engines.
+
+`seo/llms.txt` is provided as a machine-readable summary (entity, founder, services, links) that AI answer engines can read directly. Keep it in sync with README.md and `seo/portfolio-head.html`.

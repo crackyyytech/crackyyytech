@@ -1,0 +1,45 @@
+# Sudalai Manikandan S — Founder of CRACKYYY.TECH
+
+> Sudalai Manikandan S is an Indian IT professional, software developer and AI/ML engineer from Tenkasi, Tamil Nadu, India. He is the founder and owner of CRACKYYY.TECH, a software development, artificial intelligence, data and automation brand. He builds web applications, machine-learning systems, data pipelines and business automation with Python, JavaScript, React, Node.js, Django, Flask, OpenCV, YOLO, NLTK and scikit-learn.
+
+## Key facts
+
+- Name: Sudalai Manikandan S
+- Company: CRACKYYY.TECH (Founder & Owner)
+- Role: IT Professional — Software Developer, Machine Learning Engineer, Data & Automation
+- Location: Tenkasi, Tirunelveli district, Tamil Nadu, India
+- Education: B.E. Computer Science and Engineering, Trichy Engineering College (2022–2026)
+- Languages: English, Tamil
+- Email: crackyyy.tech@gmail.com
+
+## Primary technologies
+
+Python, JavaScript, React, Node.js, Django, Flask, PHP, VB.NET, Flutter, HTML5, CSS3, MySQL, SQL Server, MongoDB, OpenCV, YOLO, NLTK, scikit-learn, Pandas, Matplotlib, Git, Linux VPS, Postman, CI/CD.
+
+## Services offered by CRACKYYY.TECH
+
+- Custom software development (web apps, business tools, internal dashboards)
+- AI & machine learning solutions (computer vision, NLP, prediction, classification)
+- Data processing & reporting (Pandas pipelines, databases, PDF report generation)
+- Automation (scripting and workflow automation)
+- API development & integration (REST APIs, Postman testing)
+- Deployment (Git workflows, Linux VPS setup, CI/CD)
+
+## Featured projects
+
+- JobGuard AI — fake job post detection using NLP and scikit-learn: https://github.com/crackyyytech/fake_job_detect
+- Crowd Monitoring — real-time people counting with OpenCV and YOLO: https://github.com/crackyyytech/crowd_monitering
+- Translate AI — Tamil speech-to-text translation with Python and Flask: https://github.com/crackyyytech/translate-ai
+- Python Internship — data analysis, PDF reporting, chatbot and spam classification: https://github.com/crackyyytech/Python_Internship
+
+## Work experience
+
+- Software Developer — VISTAWIN SOLUTION, Tenkasi, Tamil Nadu (Feb 2026 – Present)
+- Python Developer Intern — TechNest Intern (Remote, Jul – Aug 2025)
+
+## Official links
+
+- Portfolio: https://portfolio-crackyyytechs-projects.vercel.app/
+- GitHub: https://github.com/crackyyytech
+- LinkedIn: https://www.linkedin.com/in/crackyyy-tech/
+- Email: mailto:crackyyy.tech@gmail.com

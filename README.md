@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <h1 align="center">
-  <img src="assets/hero.svg" width="100%" alt="Sudalai Manikandan S — IT Professional. Software Developer, Machine Learning Engineer, Data & Automation, Tamil Nadu, India" />
+  <img src="assets/hero.svg" width="100%" alt="Sudalai Manikandan S — Founder of CRACKYYY.TECH. IT Professional, Software Developer, Machine Learning Engineer, Data & Automation, Tamil Nadu, India" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,11 @@
 </p>
 
 <p align="center">
-  <a href="#about">ABOUT</a> &nbsp;·&nbsp; <a href="#facts">FACTS</a> &nbsp;·&nbsp; <a href="#services">WHAT I DO</a> &nbsp;·&nbsp; <a href="#projects">PROJECTS</a> &nbsp;·&nbsp; <a href="#stack">SKILLS</a> &nbsp;·&nbsp; <a href="#experience">EXPERIENCE</a> &nbsp;·&nbsp; <a href="#activity">GITHUB</a> &nbsp;·&nbsp; <a href="#faq">FAQ</a> &nbsp;·&nbsp; <a href="#connect">CONTACT</a>
+  <a href="https://portfolio-crackyyytechs-projects.vercel.app/" title="CRACKYYY.TECH — the software, AI/ML and automation brand founded by Sudalai Manikandan S"><img src="assets/founder.svg" width="78%" alt="Sudalai Manikandan S — Founder & Owner of CRACKYYY.TECH, a software development, AI/ML, data and automation brand from Tenkasi, Tamil Nadu, India" /></a>
+</p>
+
+<p align="center">
+  <a href="#about">ABOUT</a> &nbsp;·&nbsp; <a href="#company">COMPANY</a> &nbsp;·&nbsp; <a href="#facts">FACTS</a> &nbsp;·&nbsp; <a href="#services">WHAT I DO</a> &nbsp;·&nbsp; <a href="#projects">PROJECTS</a> &nbsp;·&nbsp; <a href="#stack">SKILLS</a> &nbsp;·&nbsp; <a href="#experience">EXPERIENCE</a> &nbsp;·&nbsp; <a href="#activity">GITHUB</a> &nbsp;·&nbsp; <a href="#faq">FAQ</a> &nbsp;·&nbsp; <a href="#connect">CONTACT</a>
 </p>
 
 ---
@@ -20,7 +24,7 @@
 <a id="about"></a>
 ## ABOUT ME — SUDALAI MANIKANDAN S, IT PROFESSIONAL
 
-Hi! I'm **Sudalai Manikandan S**, an **Indian software developer and IT professional** from **Tenkasi, Tamil Nadu, India**, currently pursuing **B.E. Computer Science and Engineering** at **Trichy Engineering College**. I build and automate across the full IT stack — **web development, artificial intelligence, machine learning, data engineering, database management and business automation** — as a **Python developer**, **React.js / Node.js / Django full-stack developer** and **machine learning engineer** using **OpenCV, YOLO, NLTK, scikit-learn and Pandas**.
+Hi! I'm **Sudalai Manikandan S**, an **Indian software developer and IT professional** from **Tenkasi, Tamil Nadu, India**, and the **founder and owner of CRACKYYY.TECH**. I am currently pursuing **B.E. Computer Science and Engineering** at **Trichy Engineering College**. I build and automate across the full IT stack — **web development, artificial intelligence, machine learning, data engineering, database management and business automation** — as a **Python developer**, **React.js / Node.js / Django full-stack developer** and **machine learning engineer** using **OpenCV, YOLO, NLTK, scikit-learn and Pandas**.
 
 My profile is designed for recruiters, fellow developers and clients searching for **software developers in Tamil Nadu**, **Python developers in India** and **AI / ML engineers** working with **computer vision, NLP and REST APIs**.
 
@@ -42,6 +46,7 @@ My profile is designed for recruiters, fellow developers and clients searching f
 |---|---|
 | **Name** | Sudalai Manikandan S |
 | **Profile** | IT Professional — Software Developer, Machine Learning Engineer, Data & Automation |
+| **Company** | CRACKYYY.TECH — Founder & Owner |
 | **Location** | Tenkasi, Tirunelveli district, Tamil Nadu, India |
 | **Education** | B.E. Computer Science and Engineering (pursuing), Trichy Engineering College, 2022–2026 |
 | **Primary stack** | Python, JavaScript, React, Node.js, Django, SQL |
@@ -63,6 +68,23 @@ My profile is designed for recruiters, fellow developers and clients searching f
 - **Automation** — scripting and workflow automation to replace repetitive manual work.
 - **API development & integration** — REST APIs, Postman testing, Flask/FastAPI-style back ends.
 - **Deployment** — Git workflows, Linux VPS setup and CI/CD.
+
+---
+
+<a id="company"></a>
+## COMPANY — CRACKYYY.TECH, FOUNDED BY SUDALAI MANIKANDAN S
+
+<a href="https://portfolio-crackyyytechs-projects.vercel.app/" title="CRACKYYY.TECH portfolio"><img src="assets/founder.svg" width="100%" alt="CRACKYYY.TECH — founded by Sudalai Manikandan S, software development, AI/ML, data and automation from Tenkasi, Tamil Nadu, India" /></a>
+
+**CRACKYYY.TECH** is the software development, artificial intelligence, data and automation brand founded by **Sudalai Manikandan S** in **Tenkasi, Tamil Nadu, India**. Through CRACKYYY.TECH he builds and ships custom software, machine-learning solutions, data and reporting pipelines, REST APIs, business automation and deployments for clients and organisations.
+
+| | |
+|---|---|
+| **Company** | CRACKYYY.TECH |
+| **Founder & Owner** | Sudalai Manikandan S |
+| **Based in** | Tenkasi, Tamil Nadu, India |
+| **Focus** | Software development · AI & ML · Data · Automation |
+| **Contact** | [crackyyy.tech@gmail.com](mailto:crackyyy.tech@gmail.com) |
 
 ---
 
@@ -163,6 +185,9 @@ Python/Flask pipeline combining speech-to-text, Tamil text normalization, transl
 <a id="faq"></a>
 ## FAQ — ABOUT SUDALAI MANIKANDAN S
 
+**Who is the founder of CRACKYYY.TECH?**
+Sudalai Manikandan S is the founder and owner of CRACKYYY.TECH, the software development, AI/ML, data and automation brand based in Tenkasi, Tamil Nadu, India.
+
 **Who is Sudalai Manikandan S?**
 An IT professional and software developer from Tenkasi, Tamil Nadu, India, with experience in software development, machine learning, data processing and automation.
 
@@ -191,9 +216,12 @@ Have an IT, AI, software or automation project idea? Send the problem, expected 
 | | |
 |---|---|
 | **Email** | [crackyyy.tech@gmail.com](mailto:crackyyy.tech@gmail.com) |
+| **Company** | CRACKYYY.TECH — founded by Sudalai Manikandan S |
 | **LinkedIn** | [linkedin.com/in/crackyyy-tech](https://www.linkedin.com/in/crackyyy-tech/) |
 | **Portfolio** | [portfolio-crackyyytechs-projects.vercel.app](https://portfolio-crackyyytechs-projects.vercel.app/) |
 
 ---
+
+**Founder & Owner — CRACKYYY.TECH** · Sudalai Manikandan S · Tenkasi, Tamil Nadu, India
 
 [↑ Back to top](#top)

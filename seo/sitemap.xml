@@ -2,13 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://YOUR_DEPLOYED_URL/</loc>
-    <lastmod>2026-09-09</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://portfolio-crackyyytechs-projects.vercel.app/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://github.com/crackyyytech/crackyyytech/raw/main/seo/social-preview.png</image:loc>
-      <image:title>Sudalai Manikandan S — IT Professional, Software Developer, AI/ML Engineer, Data &amp; Automation</image:title>
+      <image:title>Sudalai Manikandan S — Founder of CRACKYYY.TECH, Software Developer, AI/ML Engineer, Data &amp; Automation</image:title>
+      <image:caption>Portfolio of Sudalai Manikandan S, founder and owner of CRACKYYY.TECH, from Tenkasi, Tamil Nadu, India.</image:caption>
     </image:image>
   </url>
 </urlset>

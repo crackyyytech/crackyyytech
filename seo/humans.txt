@@ -1,0 +1,19 @@
+/* TEAM */
+  Founder: Sudalai Manikandan S
+  Company: CRACKYYY.TECH
+  Role: IT Professional — Software Developer, AI/ML Engineer, Data & Automation
+  Location: Tenkasi, Tamil Nadu, India
+  Contact: crackyyy.tech@gmail.com
+  GitHub: https://github.com/crackyyytech
+  LinkedIn: https://www.linkedin.com/in/crackyyy-tech/
+  Portfolio: https://portfolio-crackyyytechs-projects.vercel.app/
+
+/* THANKS */
+  Open-source communities behind Python, React, Django, Node.js, OpenCV, YOLO, NLTK and scikit-learn.
+
+/* SITE */
+  Last update: 2026-10-10
+  Language: English, Tamil
+  Doctype: HTML5
+  Standards: HTML5, CSS3, WCAG 2.1 AA targets, schema.org structured data
+  Software: Python, React, Node.js, Django, Flask

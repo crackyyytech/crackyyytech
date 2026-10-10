@@ -1,21 +1,39 @@
-# robots.txt for the Vercel portfolio (place in public/ or Next.js root)
+# robots.txt — Sudalai Manikandan S / CRACKYYY.TECH portfolio
+# Canonical site: https://portfolio-crackyyytechs-projects.vercel.app/
+
 User-agent: *
 Allow: /
+Disallow: /api/
 
-# Allow search engines and AI crawlers that build search indexes
+# Search engines and AI answer engines that build public indexes
 User-agent: Googlebot
 Allow: /
 
 User-agent: Bingbot
 Allow: /
 
+User-agent: DuckDuckBot
+Allow: /
+
 User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
 Allow: /
 
 User-agent: PerplexityBot
 Allow: /
 
+User-agent: ClaudeBot
+Allow: /
+
 User-agent: anthropic-ai
 Allow: /
 
-Sitemap: https://YOUR_DEPLOYED_URL/sitemap.xml
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://portfolio-crackyyytechs-projects.vercel.app/sitemap.xml
